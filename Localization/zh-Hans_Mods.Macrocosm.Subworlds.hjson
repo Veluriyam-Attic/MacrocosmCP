@@ -1,11 +1,11 @@
 Sun: {
 	DisplayName: 太陽
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Vulcan: {
 	DisplayName: 祝融星
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Mercury: {
@@ -51,12 +51,12 @@ AsteroidBelt: {
 
 Ceres: {
 	DisplayName: 谷神星
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Jupiter: {
 	DisplayName: 木星
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Io: {
@@ -71,7 +71,7 @@ Europa: {
 
 Saturn: {
 	DisplayName: 土星
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Titan: {
@@ -81,7 +81,7 @@ Titan: {
 
 Ouranos: {
 	DisplayName: 天王星
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Miranda: {
@@ -91,12 +91,12 @@ Miranda: {
 
 Neptune: {
 	DisplayName: 海王星
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Triton: {
 	DisplayName: 海衛一，崔頓
-	FlavorText: 未實現
+	FlavorText: 很抱歉，暫未實現
 }
 
 Pluto: {
