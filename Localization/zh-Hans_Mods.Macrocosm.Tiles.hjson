@@ -83,7 +83,7 @@ IndustrialControlPanel.MapEntry: 工業控製面板
 IndustrialControlStation.MapEntry: 工業控製站
 IndustrialDeskClock.MapEntry: 工業臺鐘
 BurnerGenerator.MapEntry: 燃燒式發電機
-IndustrialServer.MapEntry: 工業服務器
+IndustrialServer.MapEntry: 工業用伺服器
 Medkit.MapEntry: 醫療包
 IndustrialBulkheadClosed.MapEntry: 艙壁（關）
 IndustrialBulkheadOpen.MapEntry: 艙壁（開）
