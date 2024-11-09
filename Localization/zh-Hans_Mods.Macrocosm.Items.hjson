@@ -62,7 +62,7 @@ ChandriumBreastplate: {
 	DisplayName: 常曦石胸甲
 	Tooltip:
 		'''
-		+1最大隨從欄
+		+1最大僕從欄位
 		+15%鞭範圍和使用速度
 		'''
 }
@@ -71,7 +71,7 @@ ChandriumHelm: {
 	DisplayName: 常曦石頭盔
 	Tooltip:
 		'''
-		+1最大隨從欄
+		+1最大僕從欄位
 		+25%召喚傷害
 		'''
 }
@@ -80,7 +80,7 @@ ChandriumLeggings: {
 	DisplayName: 常曦石護腿
 	Tooltip:
 		'''
-		+1最大隨從欄
+		+1最大僕從欄位
 		+10%移動速度
 		'''
 }
@@ -154,12 +154,12 @@ Moonstone: {
 
 BanHammer: {
 	DisplayName: 封禁錘
-	Tooltip: 滾出去！
+	Tooltip: 你給我滾出去！
 }
 
 DevPick: {
-	DisplayName: 開發者鎬
-	Tooltip: 當作武器使用也不錯
+	DisplayName: 創作者稿
+	Tooltip: 或許當做武器使用也不錯？
 }
 
 RocketPlacer: {
@@ -334,7 +334,7 @@ VortexChunk: {
 
 SpaceShuttle: {
 	DisplayName: 航天飛船
-	Tooltip: 謹以此物，向哥倫比亞號與挑戰者號的遇難宇航員致以崇高敬意
+	Tooltip: 謹以此物，向哥倫比亞號與挑戰者號的遇難宇航員致以崇高敬意!
 }
 
 IrradiatedBrick: {
@@ -1001,7 +1001,7 @@ IndustrialToilet: {
 }
 
 OilRefinery: {
-	DisplayName: 煉油廠
+	DisplayName: 精煉油廠
 	Tooltip: 用於提煉燃料和其他液體
 }
 
@@ -1945,7 +1945,7 @@ IVPole: {
 }
 
 DevOmnitool: {
-	DisplayName: 開發者萬能工具
+	DisplayName: 創作者萬能工具
 	Tooltip: ""
 }
 
