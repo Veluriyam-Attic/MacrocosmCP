@@ -1,86 +1,86 @@
 Fear: {
-	DisplayName: 恐惧
-	Description: 我的天啊，那到底是什么？
+	DisplayName: 恐懼
+	Description: 我的天啊，那到底是什麽？
 }
 
 SuitBreach: {
-	DisplayName: 防护服损坏
-	Description: 你暴露在了辐射中！
+	DisplayName: 防護服損壞
+	Description: 你暴露在了輻射中！
 }
 
 Depressurized: {
-	DisplayName: 失压
-	Description: 热血沸腾!
+	DisplayName: 失壓
+	Description: 熱血沸騰!
 }
 
 ChandriumWhipBuff: {
 	DisplayName: 常曦附身
-	Description: 你下一次使用你的常曦石鞭的攻击将会造成额外的伤害！
+	Description: 你下一次使用你的常曦石鞭的攻擊將會造成額外的傷害！
 }
 
 CalcicCaneMinionBuff: {
-	DisplayName: 陨星煞鬼
-	Description: 陨星煞鬼为你而战！
+	DisplayName: 隕星煞鬼
+	Description: 隕星煞鬼為你而戰！
 }
 
 ChandriumStaffMinionBuff: {
 	DisplayName: 弦月鬼
-	Description: 弦月鬼为你而战！
+	Description: 弦月鬼為你而戰！
 }
 
 SpaceShuttle: {
-	DisplayName: 航天飞机
-	Description: 谨以此物，向哥伦比亚号与挑战者号的遇难宇航员致以崇高敬意
+	DisplayName: 航天飛機
+	Description: 謹以此物，向哥倫比亞號與挑戰者號的遇難宇航員致以崇高敬意
 }
 
 Procellarum_LightningMarkDebuff: {
-	DisplayName: 风暴闪电标记
-	Description: 你将会从风暴洋的闪电攻击中受到双倍伤害
+	DisplayName: 風暴閃電標記
+	Description: 你將會從風暴洋的閃電攻擊中受到雙倍傷害
 }
 
 HandheldEngineOverheat: {
-	DisplayName: 过热
-	Description: 你的武器过热了!
+	DisplayName: 過熱
+	Description: 你的武器過熱了!
 }
 
 CraterDemonPet: {
-	DisplayName: 迷你陨星恶煞
-	Description: 你正被注视着
+	DisplayName: 迷你隕星惡煞
+	Description: 你正被註視著
 }
 
 MedkitHigh: {
-	DisplayName: 医疗包
-	Description: 你在快速恢复中
+	DisplayName: 醫療包
+	Description: 你在快速恢復中
 }
 
 MedkitLow: {
-	DisplayName: 医疗包
-	Description: 你在缓慢恢复中
+	DisplayName: 醫療包
+	Description: 你在緩慢恢復中
 }
 
 MedkitMedium: {
-	DisplayName: 医疗包
-	Description: 你在稳定恢复中
+	DisplayName: 醫療包
+	Description: 你在穩定恢復中
 }
 
 Irradiated: {
-	DisplayName: 暴露于辐射中
-	Description: 你现在拥有了辐射病
+	DisplayName: 暴露於輻射中
+	Description: 你現在擁有了輻射病
 }
 
 Blindness: {
 	DisplayName: 失明
-	Description: 你的视力正在下降
+	Description: 你的視力正在下降
 }
 
 MildNecrosis: {
-	DisplayName: 轻度坏死
-	Description: 你的身体正在腐烂
+	DisplayName: 輕度壞死
+	Description: 你的身體正在腐爛
 }
 
 Necrosis: {
-	DisplayName: 坏死
-	Description: 你的身体正在急速腐烂
+	DisplayName: 壞死
+	Description: 你的身體正在急速腐爛
 }
 
 OrganFailure: {
@@ -89,23 +89,23 @@ OrganFailure: {
 }
 
 Paralysis: {
-	DisplayName: 瘫痪
-	Description: 你无法行动!
+	DisplayName: 癱瘓
+	Description: 你無法行動!
 }
 
 WeakBones: {
-	DisplayName: 骨质疏松
-	Description: 你感觉到你的骨头非常脆弱...
+	DisplayName: 骨質疏松
+	Description: 你感覺到你的骨頭非常脆弱...
 }
 
 Fatigue: {
-	DisplayName: 疲劳
-	Description: 你觉得很累...
+	DisplayName: 疲勞
+	Description: 你覺得很累...
 }
 
 AntiRadiationPills: {
-	DisplayName: 抗辐射药丸
-	Description: 你已经摆脱了辐射病的困扰
+	DisplayName: 抗輻射藥丸
+	Description: 你已經擺脫了輻射病的困擾
 }
 
 Melting: {
@@ -114,21 +114,21 @@ Melting: {
 }
 
 HummingbirdDroneSummonBuff: {
-	DisplayName: P.D.C.D “蜂鸟”
-	Description: 战斗无人机会保护你
+	DisplayName: P.D.C.D 「蜂鳥」
+	Description: 戰鬥無人機會保護你
 }
 
 GreatstaffOfHorusMinionBuff: {
-	DisplayName: 荷鲁斯之杖
-	Description: 太阳粒子为你而战
+	DisplayName: 荷魯斯之杖
+	Description: 太陽粒子為你而戰
 }
 
 HorusBurn: {
-	DisplayName: 荷鲁斯之光
-	Description: 被太阳所灼烧
+	DisplayName: 荷魯斯之光
+	Description: 被太陽所灼燒
 }
 
 RyuguSummonBuff: {
 	DisplayName: 月兔炮
-	Description: 月兔炮为你而战
+	Description: 月兔炮為你而戰
 }

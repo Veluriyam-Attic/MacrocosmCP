@@ -1,5 +1,5 @@
-displayName = Macrocosm-汉化补丁
-author = 虞悖
+displayName = Macrocosm-繁體漢化補丁
+author = 白狐貍
 version = 1.0.0.4
 modReferences = Macrocosm
 translationMod = true
