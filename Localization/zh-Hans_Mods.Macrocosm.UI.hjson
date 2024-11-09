@@ -34,7 +34,7 @@ Rocket: {
 		Payload: 有效載荷
 		Inventory: 貨倉
 		Fuel: 燃料
-		Customization: 個性化
+		Customization: 客製化
 		Assembly: 組裝
 	}
 
@@ -131,7 +131,7 @@ Rocket: {
 
 				NotMet: {
 					Display: 路徑被阻
-					Hover: 火箭飛行的路徑被阻擋
+					Hover: 偵測到火箭飛行的路徑被阻擋
 				}
 			}
 
