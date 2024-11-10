@@ -138,14 +138,14 @@ Rocket: {
 			Boss: {
 				NotMet: {
 					Display: 世界上存在Boss
-					Hover: 先擊敗當前Boss才能安全起飛
+					Hover: 先擊破當前Boss才能安全起飛
 				}
 			}
 
 			Invasion: {
 				NotMet: {
 					Display: 正處於入侵中
-					Hover: 先擊敗當前入侵才能安全起飛
+					Hover: 先擊退當前入侵才能安全起飛
 				}
 			}
 
@@ -199,7 +199,7 @@ LoadingScreenTips: {
 		Earth_Tip1: 回家小憩？
 		Earth_Tip2: 電量永遠不嫌多！
 		Earth_Tip3: 經歷過低重力之後，地球上的生活會很艱難.習慣就好了.
-		Earth_Tip4: 您可以個性化定製您的火箭！給它塗上新漆、掛上喜歡的旗幟最後給它起個好名字吧！
-		Earth_Tip5: 做多種電力的來源規劃，你永遠不知道某天是否會因為某些原因缺少電的來源！
+		Earth_Tip4: 您可以個性化定製您的火箭！給它塗上新漆、掛上喜歡的旗幟，在最後給它起個好名字吧！
+		Earth_Tip5: 一定要做好多種電力的來源規劃哦，你永遠不想知道某天因為某些原因缺少電力來源！
 	}
 }
