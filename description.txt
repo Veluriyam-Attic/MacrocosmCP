@@ -4,7 +4,7 @@
 本品为由玲珑汉化组出品的
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3357778735] Macrocosm 群星外域 [BETA] [/url] 汉化
 汉化进度：99%
-适配群星外域版本0.1.0.5
+适配群星外域版本0.1.0.6
 
 反馈群号：909428503
 贡献汉化：3412615165

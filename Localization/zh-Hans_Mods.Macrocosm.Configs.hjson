@@ -2,6 +2,7 @@
 
 MacrocosmConfig: {
 	DisplayName: 一般配置
+	WorldGenHeader: 世界生成
 	GameplayHeader: 游戏
 	GraphicsHeader: 图案
 	UIHeader: 用户界面
@@ -34,6 +35,11 @@ MacrocosmConfig: {
 	SelectedUITheme: {
 		Label: UI主题
 		Tooltip: 这个mod的UI显示主题
+	}
+
+	DisableSilicaSandGeneration: {
+		Label: 禁用硅砂生成
+		Tooltip: 禁用硅砂的生成，以避免破坏其他模组的生物群落.
 	}
 }
 

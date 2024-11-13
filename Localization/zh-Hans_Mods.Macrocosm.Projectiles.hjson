@@ -10,10 +10,10 @@ VortexMeteor.DisplayName: 星旋陨星
 DianiteTomeProjectile.DisplayName: 望舒陨星
 DianiteTomeProjectileSmall.DisplayName: 小望舒陨星
 AluminumShortswordProjectile.DisplayName: 铝短剑
-ArtemiteSwordSwing.DisplayName: 灵霄断
-ArtemiteSpearProjectile.DisplayName: 嫦娥石长矛
-ArtemiteSpearProjectileShoot.DisplayName: 嫦娥石长矛
-ArtemiteSwordProjectile.DisplayName: 幻月斩
+// SeleniteSwordSwing.DisplayName: Selenite Sword
+// SeleniteSpearProjectile.DisplayName: Selenite Spear
+// SeleniteSpearProjectileShoot.DisplayName: Selenite Spear
+// SeleniteSwordProjectile.DisplayName: Selenite Straightsword
 ClawWrenchProjectile.DisplayName: 钩形扳手
 MoonSwordProjectile.DisplayName: 月煌天刃
 MoonSwordSwing.DisplayName: 月煌天刃
@@ -27,10 +27,10 @@ CalcicCaneMinion.DisplayName: 陨星煞鬼
 ChandriumStaffMinion.DisplayName: 弦月鬼
 ChandriumWhipProjectile.DisplayName: 常曦石鞭
 MoonTombstone.DisplayName: 月球墓石
-ArtemiteDrillProjectile.DisplayName: 嫦娥石钻头
+SeleniteDrillProjectile.DisplayName: 嫦娥石钻头
 ChandriumDrillProjectile.DisplayName: 常曦石钻头
 DianiteDrillProjectile.DisplayName: 望舒石钻头
-SeleniteDrillProjectile.DisplayName: 月光石钻头
+ArtemiteDrillProjectile.DisplayName: 月光石钻头
 FlamingMeteor.DisplayName: 燃烧的陨星
 MeteorPortal.DisplayName: 陨星雨之门
 ImbriumJewelProjectile.DisplayName: 雨海珠玉
@@ -38,7 +38,7 @@ ImbriumJewelMeteor.DisplayName: 雨海珠玉
 HandheldEngineProjectile.DisplayName: 手持推进器
 HandheldEngineHitbox.DisplayName: 手持推进器
 ZombieSecurityBullet.DisplayName: 警卫员尸骸
-SeleniteMagnumProjectile.DisplayName: 月光马格南
+// ArtemiteMagnumProjectile.DisplayName: Artemite Magnum
 TychoBullet.DisplayName: 第谷 .50
 DianiteMeteor.DisplayName: 望舒陨星
 DianiteMeteorSmall.DisplayName: 望舒陨星
@@ -55,21 +55,21 @@ InvarArrow.DisplayName: 殷钢箭
 InvarBullet.DisplayName: 殷钢弹
 RapaciousBrandProjectile.DisplayName: 贪噬之刃
 RapaciousBrandSwing.DisplayName: 贪噬之刃
-SeleniteBolt.DisplayName: 月光闪电
-SeleniteBowHeld.DisplayName: 月光弓
+// ArtemiteBolt.DisplayName: Artemite Bolt
+// ArtemiteBowHeld.DisplayName: Artemite Bow
 LuminiteExplosion.DisplayName: 夜明爆炸
 LuminiteShard.DisplayName: 夜明碎片
 LuminiteStar.DisplayName: 夜明星
 PhantasmalBolt.DisplayName: 幻影闪电
 CraterDemonPet.DisplayName: 迷你陨星恶煞
-ArtemiteGreatswordSwing.DisplayName: 灵霄断
+// SeleniteGreatswordSwing.DisplayName: Selenite Greatsword
 MoonGoldTombstone.DisplayName: 月球金墓石
 DianitePortal.DisplayName: 望舒传送门
-ArtemiteBoomerang.DisplayName: 嫦娥回旋镖
-ArtemiteGreatswordSwing2.DisplayName: 灵霄断
-ArtemiteSpearProjectileThrown.DisplayName: 嫦娥石长矛
-ArtemiteSlash.DisplayName: 嫦娥剑气
-ArtemiteSpike.DisplayName: 嫦娥尖刺
+// SeleniteBoomerang.DisplayName: Selenite Boomerang
+// SeleniteGreatswordSwing2.DisplayName: Selenite Greatsword
+// SeleniteSpearProjectileThrown.DisplayName: Selenite Spear
+// SeleniteSlash.DisplayName: Selenite Slash
+// SeleniteSpike.DisplayName: Selenite Spike
 SilicaCrimsandBall.DisplayName: 猩红硅砂
 SilicaCrimsandFalling.DisplayName: 猩红硅沙
 SilicaEbonsandBall.DisplayName: 腐化硅沙
@@ -104,10 +104,10 @@ ChampionsBladeSwingEmpowered.DisplayName: 斗士之锋
 StarDestroyerStar_Blue.DisplayName: 歼星炮蓝星
 StarDestroyerStar_Yellow.DisplayName: 歼星炮黄星
 StarDestroyerStar.DisplayName: 歼星炮星
-ArtemiteGreatswordSwingEmpowered.DisplayName: 灵霄断
+// SeleniteGreatswordSwingEmpowered.DisplayName: Selenite Greatsword
 RocheChakramProjectile.DisplayName: 月光岩环
 RocheSpike.DisplayName: 月光岩环
-ArtemiteSwordShoot.DisplayName: 幻月斩
+// SeleniteSwordShoot.DisplayName: Selenite Sword Shoot
 BlueEnergyBolt.DisplayName: 蓝能量闪电
 BlueGunHeld.DisplayName: 蓝色电击枪
 PurpleEnergyBolt.DisplayName: 紫电击弹
@@ -125,7 +125,7 @@ LunarBlood.DisplayName: 月之精血
 TotalityProjectile.DisplayName: 终绝
 Explosion.DisplayName: 爆炸
 ZombieEngineerExplosion.DisplayName: 工程师尸骸爆炸
-ArtemiteSwordSlash.DisplayName: 嫦娥剑
+// SeleniteSwordSlash.DisplayName: Selenite Sword
 ManisolBladeMoon.DisplayName: 旭日之锋
 ManisolBladeSol.DisplayName: 皎月之锋
 ManisolBladeSolExplosion.DisplayName: 旭日之锋爆炸

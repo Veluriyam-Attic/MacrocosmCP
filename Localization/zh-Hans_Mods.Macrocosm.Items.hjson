@@ -28,18 +28,18 @@ AluminumHelmet: {
 	Tooltip: ""
 }
 
-ArtemiteBreastplate: {
-	DisplayName: 嫦娥石胸甲
+SeleniteBreastplate: {
+	DisplayName: 月光石胸甲
 	Tooltip: +6%近战暴击率
 }
 
-ArtemiteHelmet: {
-	DisplayName: 嫦娥石头盔
+SeleniteHelmet: {
+	DisplayName: 月光石头盔
 	Tooltip: +18%近战伤害
 }
 
-ArtemiteLeggings: {
-	DisplayName: 嫦娥石护腿
+SeleniteLeggings: {
+	DisplayName: 月光石护腿
 	Tooltip: +15%近战和移动速度
 }
 
@@ -108,13 +108,13 @@ DianiteVisor: {
 		'''
 }
 
-SeleniteBreastplate: {
-	DisplayName: 月光石胸甲
+ArtemiteBreastplate: {
+	DisplayName: 嫦娥石胸甲
 	Tooltip: +12%远程暴击率
 }
 
-SeleniteHeadgear: {
-	DisplayName: 月光石头盔
+ArtemiteHeadgear: {
+	DisplayName: 嫦娥石头盔
 	Tooltip:
 		'''
 		+10%远程伤害
@@ -122,8 +122,8 @@ SeleniteHeadgear: {
 		'''
 }
 
-SeleniteLeggings: {
-	DisplayName: 月光石护腿
+ArtemiteLeggings: {
+	DisplayName: 嫦娥石护腿
 	Tooltip:
 		'''
 		+5%远程伤害
@@ -187,13 +187,13 @@ AluminumOre: {
 	Tooltip: ""
 }
 
-ArtemiteBar: {
-	DisplayName: 精炼嫦娥石
+SeleniteBar: {
+	DisplayName: 精炼月光石
 	Tooltip: ""
 }
 
-ArtemiteOre: {
-	DisplayName: 嫦娥石
+SeleniteOre: {
+	DisplayName: 月光石
 	Tooltip: ""
 }
 
@@ -267,13 +267,13 @@ PrintedCircuitBoard: {
 	Tooltip: ""
 }
 
-SeleniteBar: {
-	DisplayName: 精炼月光石
+ArtemiteBar: {
+	DisplayName: 精炼嫦娥石
 	Tooltip: ""
 }
 
-SeleniteOre: {
-	DisplayName: 月光石
+ArtemiteOre: {
+	DisplayName: 嫦娥石
 	Tooltip: ""
 }
 
@@ -477,23 +477,23 @@ AluminumPickaxe: {
 	Tooltip: ""
 }
 
-ArtemiteAxe: {
-	DisplayName: 嫦娥石斧
+SeleniteAxe: {
+	DisplayName: 月光石斧
 	Tooltip: ""
 }
 
-ArtemiteDrill: {
-	DisplayName: 嫦娥石钻头
+SeleniteDrill: {
+	DisplayName: 月光石钻头
 	Tooltip: ""
 }
 
-ArtemiteHammer: {
-	DisplayName: 嫦娥石锤
+SeleniteHammer: {
+	DisplayName: 月光石锤
 	Tooltip: ""
 }
 
-ArtemitePickaxe: {
-	DisplayName: 嫦娥石镐
+SelenitePickaxe: {
+	DisplayName: 月光石镐
 	Tooltip: ""
 }
 
@@ -537,23 +537,23 @@ DianitePickaxe: {
 	Tooltip: ""
 }
 
-SeleniteAxe: {
-	DisplayName: 月光石斧
+ArtemiteAxe: {
+	DisplayName: 嫦娥石斧
 	Tooltip: ""
 }
 
-SeleniteDrill: {
-	DisplayName: 月光石钻头
+ArtemiteDrill: {
+	DisplayName: 嫦娥石钻头
 	Tooltip: ""
 }
 
-SeleniteHammer: {
-	DisplayName: 月光石锤
+ArtemiteHammer: {
+	DisplayName: 嫦娥石锤
 	Tooltip: ""
 }
 
-SelenitePickaxe: {
-	DisplayName: 月光石镐
+ArtemitePickaxe: {
+	DisplayName: 嫦娥石镐
 	Tooltip: ""
 }
 
@@ -591,17 +591,17 @@ AluminumShortsword: {
 	Tooltip: ""
 }
 
-ArtemiteGreatsword: {
+SeleniteGreatsword: {
 	DisplayName: 灵霄断
 	Tooltip: <right> 来蓄力，松开后造成大量伤害
 }
 
-ArtemiteSpear: {
-	DisplayName: 嫦娥石长矛
+SeleniteSpear: {
+	DisplayName: 月光石长矛
 	Tooltip: <right> 来掷出长矛
 }
 
-ArtemiteSword: {
+SeleniteSword: {
 	DisplayName: 幻月斩
 	Tooltip: ""
 }
@@ -668,14 +668,14 @@ NWARocketLauncher: {
 	Tooltip: <right> 来锁定敌人
 }
 
-SeleniteBow: {
-	DisplayName: 月光弓
-	Tooltip: 一次射出两只箭矢
+ArtemiteBow: {
+	// DisplayName: Artemite Bow
+	// Tooltip: Fires two arrows
 }
 
-SeleniteMagnum: {
-	DisplayName: 月光马格南
-	Tooltip: <right> 以扇形快速射出六发子弹
+ArtemiteMagnum: {
+	// DisplayName: Artemite Magnum
+	// Tooltip: <right> to rapidly fan six bullets
 }
 
 CalcicCane: {
@@ -1156,7 +1156,11 @@ IntoTheUnknownMusicBox: {
 
 OsmiumBoots: {
 	DisplayName: 锇靴
-	Tooltip: 提高玩家的下落速度
+	Tooltip:
+		'''
+		提高玩家的下落速度
+		双重向下键或向上键进一步增加下降速度.
+		'''
 }
 
 EarthGlobe: {
@@ -2689,5 +2693,25 @@ CircuitProbe: {
 
 IndustrialBattery: {
 	DisplayName: 工业电池组
+	Tooltip: ""
+}
+
+AdvancedCircuitBoard: {
+	DisplayName: 高级电路板
+	Tooltip: ""
+}
+
+ClydersHood: {
+	DisplayName: Clyders兜帽
+	Tooltip: ""
+}
+
+ClydersRobe: {
+	DisplayName: Clyders长袍
+	Tooltip: ""
+}
+
+ClydersWings: {
+	DisplayName: Clyders之翼
 	Tooltip: ""
 }

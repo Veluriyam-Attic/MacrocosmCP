@@ -8,6 +8,7 @@ Mods: {
 			Tooltips: {
 				DeveloperItem: 开发者物品
 				UnobtainableItem: 不可获取
+				Unusable: 这个物品不能用于{0}
 				BurnFuel: 可作为燃料
 				LiquidContainer: 可储存液体
 				WeaponNerf: 宇宙辐射削弱了这件武器
