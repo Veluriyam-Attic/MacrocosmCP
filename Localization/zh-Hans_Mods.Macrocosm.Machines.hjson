@@ -3,24 +3,31 @@ OreExcavator.DisplayName: 采矿机
 
 BurnerGenerator: {
 	DisplayName: 燃烧机
-	HullHeatMetric: 船体温度: {0}°C
-	HullHeatImperial: 船体温度: {0}°F
+	HullHeatMetric: 机体温度: {0}°C
+	HullHeatImperial: 机体温度: {0}°F
+}
+
+KeroseneGenerator: {
+	DisplayName: Kerosene Generator
+	HullHeatMetric: 机体温度: {0}°C
+	HullHeatImperial: 机体温度: {0}°F
 }
 
 Common: {
 	ConsumedPower: 输出功率
 	GeneratedPower: 发电功率
 	StoredEnergy: 储存能源
-	PowerInfo: "{0}kW"
-	StatusInfo: "{0}kW / {1}kW"
 	LiquidExtract: 油页岩
 	LiquidContainer: 液体容器
 	BurnFuel: 可燃燃料
 
-	FullStatusInfo: {
+	PowerInfo: {
+		Simple: "{0}kW"
+		Energy: "{0}kJ"
+		Common: "{0}kW / {1}kW"
 		Consumer: 消耗: {0}kW / 需要: {1}kW
-		Generator: 可用: {0}kW / 发电: {1}kW
-		Battery: 可用: {0}kW / 储存: {1}kW
+		Generator: 已发电: {0}kW
+		Battery: 储存: {0}kJ / 容量: {1}kJ
 		Controller: ""
 	}
 }

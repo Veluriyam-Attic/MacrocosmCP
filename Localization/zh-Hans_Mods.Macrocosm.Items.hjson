@@ -650,7 +650,7 @@ Cruithne: {
 	Tooltip:
 		'''
 		将火枪子弹转换为绿色子弹
-		同时射出一发紊乱炮弹
+		同时射出一发爆炸性的紊乱炮弹
 		'''
 }
 
@@ -690,12 +690,17 @@ ChandriumStaff: {
 
 ChandriumWhip: {
 	DisplayName: 常曦石鞭
-	Tooltip: 每三次命中后造成额外伤害
+	Tooltip: 每三次击中后造成额外伤害
 }
 
 HandheldEngine: {
 	DisplayName: 手持推进器
-	Tooltip: 使用法力作为冷却剂
+	Tooltip: 
+		'''
+		使用魔力作为冷却剂
+		长时间不提供魔力推进器将过热
+		'耶,火箭科技!'
+		'''
 }
 
 HazardWall: {
@@ -740,8 +745,8 @@ ChampionsBlade: {
 	DisplayName: 斗士之锋
 	Tooltip:
 		'''
-		挥出绿色的剑刃
-		射出几个远离瞄准位置的绿色
+		持续使用可以增强这把武器
+		如果不持续使用，这种效果会在一段时间后逐渐消失
 		'''
 }
 
@@ -816,7 +821,7 @@ IndustrialHazardWall: {
 }
 
 IndustrialHazardWallUnsafe: {
-	DisplayName: 不安全的工业警示墙
+	DisplayName: 危险的工业警示墙
 	Tooltip: ""
 }
 
@@ -826,7 +831,7 @@ IndustrialPlatingWall: {
 }
 
 IndustrialPlatingWallUnsafe: {
-	DisplayName: 不安全的工业板墙
+	DisplayName: 危险的工业板墙
 	Tooltip: ""
 }
 
@@ -836,7 +841,7 @@ IndustrialSquarePaneledWall: {
 }
 
 IndustrialSquarePaneledWallUnsafe: {
-	DisplayName: 不安全的工业方形镶板墙
+	DisplayName: 危险的工业方形镶板墙
 	Tooltip: ""
 }
 
@@ -846,7 +851,7 @@ IndustrialTrimmingWall: {
 }
 
 IndustrialTrimmingWallUnsafe: {
-	DisplayName: 不安全的工业装饰墙
+	DisplayName: 危险的工业装饰墙
 	Tooltip: ""
 }
 
@@ -1037,7 +1042,11 @@ ZombieFinger: {
 
 XFLR6: {
 	DisplayName: XFLR-6
-	Tooltip: 你觉得怎么样？看看山羊创造了什么吧.
+	Tooltip: 
+		'''
+		唔，你觉得怎么样？
+		看看山羊创造了什么吧.
+		'''
 }
 
 InvarArrow: {
@@ -1230,7 +1239,7 @@ ReactorHousing: {
 
 Fabricator: {
 	DisplayName: 制造站
-	Tooltip: 用于制造机器和火箭部件
+	Tooltip: 用于制造高级机器和火箭部件
 }
 
 Battery: {
@@ -1899,27 +1908,27 @@ IrradiatedAltar: {
 }
 
 IrradiatedBrickWallUnsafe: {
-	DisplayName: 不安全的辐照砖墙
+	DisplayName: 危险的辐照砖墙
 	Tooltip: ""
 }
 
 IrradiatedRockWallUnsafe: {
-	DisplayName: 不安全的辐照石墙
+	DisplayName: 危险的辐照石墙
 	Tooltip: ""
 }
 
 ProtolithWallUnsafe: {
-	DisplayName: 不安全的月原岩墙
+	DisplayName: 危险的月原岩墙
 	Tooltip: ""
 }
 
 RegolithBrickWallUnsafe: {
-	DisplayName: 不安全的风化砖墙
+	DisplayName: 危险的风化砖墙
 	Tooltip: ""
 }
 
 RegolithWallUnsafe: {
-	DisplayName: 不安全的风化岩墙
+	DisplayName: 危险的风化岩墙
 	Tooltip: ""
 }
 
@@ -1970,12 +1979,12 @@ RocheChakram: {
 
 CrescentScripture: {
 	DisplayName: 半月颂歌
-	Tooltip: ""
+	Tooltip: “记述着来自失传已久的月球文献的古老符号.”
 }
 
 Totality: {
 	DisplayName: 终绝
-	Tooltip: 撕开现实的面纱，开启通向另一方的道路......
+	Tooltip: 挥舞时留下裂缝，裂缝中散发出深紫色的魔法光芒.
 }
 
 AstraWorkbench: {
@@ -2059,6 +2068,7 @@ ArmstrongGauntlets: {
 		'''
 		嘿！挥舞起你的拳头！
 		不要害怕！勇敢地冲向你的敌人吧！
+		“你指望我逃跑？”
 		'''
 }
 
@@ -2222,7 +2232,7 @@ ProtolithBrickWall: {
 }
 
 ProtolithBrickWallUnsafe: {
-	DisplayName: 不安全的月原岩砖墙
+	DisplayName: 危险的月原岩砖墙
 	Tooltip: ""
 }
 
@@ -2714,4 +2724,19 @@ ClydersRobe: {
 ClydersWings: {
 	DisplayName: Clyders之翼
 	Tooltip: ""
+}
+
+Schroteri: {
+	// DisplayName: Schroteri
+	// Tooltip: ""
+}
+
+Conveyor: {
+	// DisplayName: Conveyor
+	// Tooltip: ""
+}
+
+KeroseneGenerator: {
+	// DisplayName: Kerosene Generator
+	// Tooltip: ""
 }
