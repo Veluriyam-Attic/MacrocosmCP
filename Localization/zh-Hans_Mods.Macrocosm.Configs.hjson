@@ -42,7 +42,7 @@ ClientConfig: {
 	}
 
 	DisableOilShaleGeneration: {
-		Label: Disable Oil Shale Generation
+		Label: 禁用油页岩生成
 		Tooltip: ""
 	}
 }
@@ -52,25 +52,25 @@ ServerConfig: {
 	WorldGenHeader: 世界生成
 
 	DisableSilicaSandGeneration: {
-		Label: Disable Silica Sand Generation
-		Tooltip: Disable the generation of Silica Sand underneath the Ocean, to avoid breaking other mods' biomes.
+		Label: 禁用硅砂生成
+		Tooltip: 禁用硅砂的生成，以避免破坏其他模组的生物群落.
 	}
 
 	DisableOilShaleGeneration: {
-		Label: Disable Oil Shale Generation
-		Tooltip: Disable the generation of Oil Shale in the Underground Desert, to avoid breaking other mods' biomes.
+		Label: 禁用油页岩生成
+		Tooltip: 禁用油页岩的生成，以避免破坏其他模组的生物群落.
 	}
 
-	Circuits: Circuits
+	Circuits: 电路
 
 	CircuitSearchUpdateRate: {
-		Label: Circuit Search Update Frequency
-		Tooltip: Adjust the update frequency of circuit search, in ticks. Higher values mean less frequent searches, which might improve performance.
+		Label: 电路搜索更新频率
+		Tooltip: 调整电路搜索的更新频率，单位为刻.值越高意味着搜索频率越低，这可能会提高性能.
 	}
 
 	CircuitSolveUpdateRate: {
-		Label: Circuit Solve Update Frequency
-		Tooltip: Adjust the update frequency of circuit solving, in ticks. Higher values mean less frequent updates, which might improve performance.
+		Label: 电路求解更新频率
+		Tooltip: 调整电路求解的更新频率，单位为刻.值越高意味着求解频率越低，这可能会提高性能.
 	}
 }
 

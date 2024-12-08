@@ -1,11 +1,11 @@
 Sun: {
 	DisplayName: 太阳
-	FlavorText: The nuclear inferno at the heart of the solar system, a middle-aged yellow dwarf star.
+	FlavorText: 位居太阳系心脏的核聚变熔炉，一颗壮年的黄矮星.
 }
 
 Vulcan: {
 	DisplayName: 祝融星
-	FlavorText: This tiny, angry dwarf planet orbits so close to the Sun that its surface has been completely destroyed by the star's powerful gravity, melted by its infernal heat. Thousands of active volcanoes belch ash and carbon dioxide into its thin, hadean atmosphere.
+	FlavorText: 这颗袖珍而暴躁的矮行星，在贴近太阳的轨道上疾驰，太阳的巨力与内在的炽热将其表面尽数摧毁，熔融殆尽.无数活火山在其表面喷涌，将灰烬与二氧化碳倾泻入其稀薄如纱的大气之中.
 }
 
 Mercury: {
@@ -51,12 +51,12 @@ AsteroidBelt: {
 
 Ceres: {
 	DisplayName: 谷神星
-	FlavorText: A small dwarf planet located in the expanse of debris that divides the inner and outer solar system. Strange, faint, alien signals can be traced to numerous asteroids floating near the orbit of Ceres.
+	FlavorText: 这颗袖珍的矮行星，栖身于内太阳系与外太阳系之间的广袤碎片带之中.从谷神星轨道附近漂浮的小行星群中，可以捕捉到奇异而幽微的异星信号.
 }
 
 Jupiter: {
 	DisplayName: 木星
-	FlavorText: The goliath of hydrogen and helium that dominates much of the outer solar system, a churning, ceaseless maelstrom of storms protected by a dangerously powerful magnetosphere, and surrounded by a gargantuan fleet of moons.
+	FlavorText: 氢与氦的浩荡气流，主宰着外太阳系的辽阔空间，它们在一个危险而强盛的磁层护佑下，翻涌不息，形成永恒的磁暴风暴，周遭众多巨月的环绕.
 }
 
 Io: {
@@ -71,7 +71,7 @@ Europa: {
 
 Saturn: {
 	DisplayName: 土星
-	FlavorText: A massive gas giant surrounded by its famous systems of rings, made of trillions of particles of ice and rock. Much of its moons have been distorted and warped beyond recognition.
+	FlavorText: 一颗庞然的气体巨行星，被其闻名遐迩的环带所围绕，这些环带由无数冰岩微粒汇聚而成.其众多卫星在引力的作用下扭曲变形，已至难以辨识之境.
 }
 
 Titan: {
@@ -81,7 +81,7 @@ Titan: {
 
 Ouranos: {
 	DisplayName: 天王星
-	FlavorText: A frigid ice giant orbited by thin, dark rings, knocked on its axis by an ancient collision.
+	FlavorText: 一颗冰冷的巨行星，周遭细弱而深邃的环带萦绕，其自转轴因远古的撞击而偏离.
 }
 
 Miranda: {
@@ -91,12 +91,12 @@ Miranda: {
 
 Neptune: {
 	DisplayName: 海王星
-	FlavorText: A boreal, deep blue ice giant ravaged by freezing, banshee winds that shriek across the planet at supersonic speeds.
+	FlavorText: 一颗幽深的蓝色冰巨行星，遭受严寒的狂风摧残，这些风以超音速在星球表面肆虐而过.
 }
 
 Triton: {
 	DisplayName: 海卫一，崔顿
-	FlavorText: Neptune's largest satellite, a frozen moon covered in fields of ice and torn asunder by geysers. Mysteriously, it orbits its planet retrograde to Neptune's rotation.
+	FlavorText: 海王星之最大卫星，一冰冻之月，其表面冰封万里，地壳为地震所裂.诡谲地，其行轨道与海王星自转方向相悖.
 }
 
 Pluto: {
