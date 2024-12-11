@@ -695,7 +695,7 @@ ChandriumWhip: {
 
 HandheldEngine: {
 	DisplayName: 手持推进器
-	Tooltip: 
+	Tooltip:
 		'''
 		使用魔力作为冷却剂
 		长时间不提供魔力推进器将过热
@@ -1042,7 +1042,7 @@ ZombieFinger: {
 
 XFLR6: {
 	DisplayName: XFLR-6
-	Tooltip: 
+	Tooltip:
 		'''
 		唔，你觉得怎么样？
 		看看山羊创造了什么吧.

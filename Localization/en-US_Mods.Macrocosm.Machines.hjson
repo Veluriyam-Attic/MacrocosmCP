@@ -14,9 +14,9 @@ KeroseneGenerator: {
 }
 
 Common: {
-	ConsumedPower: Consumed Power
-	GeneratedPower: Generated Power
-	StoredEnergy: Stored Energy
+	ConsumedPower: Consumed Power: {0}kW
+	GeneratedPower: Generated Power: {0}kW
+	StoredEnergy: Stored Energy: {0}kJ
 	LiquidExtract: Extractable
 	LiquidContainer: Liquid Container
 	BurnFuel: Flammable

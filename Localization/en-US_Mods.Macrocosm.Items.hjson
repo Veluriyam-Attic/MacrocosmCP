@@ -658,8 +658,8 @@ LHBMinigun: {
 	DisplayName: LHB-59
 	Tooltip:
 		'''
-		'What's more effective than bullets?''
-		'A whole LOT of bullets.'
+		'What's more effective than bullets?
+		A whole LOT of bullets.'
 		'''
 }
 
@@ -1240,7 +1240,7 @@ ReactorHousing: {
 
 Fabricator: {
 	DisplayName: Fabricator
-	Tooltip: Used to craft machines and rocket components
+	Tooltip: Used to craft advanced machines and rocket components
 }
 
 Battery: {
