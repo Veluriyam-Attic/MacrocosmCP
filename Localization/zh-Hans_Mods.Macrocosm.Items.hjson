@@ -751,22 +751,22 @@ ChampionsBlade: {
 }
 
 SilicaCrimsand: {
-	DisplayName: 猩红硅沙
+	DisplayName: 猩红硅砂
 	Tooltip: ""
 }
 
 SilicaEbonsand: {
-	DisplayName: 黑檀硅沙
+	DisplayName: 黑檀硅砂
 	Tooltip: ""
 }
 
 SilicaPearlsand: {
-	DisplayName: 珍珠硅沙
+	DisplayName: 珍珠硅砂
 	Tooltip: ""
 }
 
 SilicaSand: {
-	DisplayName: 硅沙
+	DisplayName: 硅砂
 	Tooltip: ""
 }
 
