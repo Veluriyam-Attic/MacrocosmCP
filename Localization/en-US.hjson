@@ -25,6 +25,27 @@ Mods: {
 	}
 
 	SubworldLibrary.Return: Save & Exit
+
+	MacrocosmCP: {
+		Configs: {
+			ConventConfig: {
+				DisplayName: Convent Config
+				Headers.Conversion: Conversion Header
+
+				Lang: {
+					Label: Lang
+					Tooltip: ""
+				}
+			}
+
+			zhLang: {
+				Tooltip: ""
+				zh.Label: zh
+				hk.Label: hk
+				tw.Label: tw
+			}
+		}
+	}
 }
 
 ItemName.Coal: Christmas Coal

@@ -25,6 +25,27 @@ Mods: {
 	}
 
 	SubworldLibrary.Return: 保存并退出
+
+	MacrocosmCP: {
+		Configs: {
+			ConventConfig: {
+				// DisplayName: Convent Config
+				// Headers.Conversion: Conversion Header
+
+				Lang: {
+					// Label: Lang
+					// Tooltip: ""
+				}
+			}
+
+			zhLang: {
+				// Tooltip: ""
+				// zh.Label: zh
+				// hk.Label: hk
+				// tw.Label: tw
+			}
+		}
+	}
 }
 
 ItemName.Coal: 圣诞煤块

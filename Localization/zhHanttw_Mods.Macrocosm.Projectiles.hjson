@@ -1,0 +1,157 @@
+GreatswordHeldProjectile.DisplayName: 灵霄斩
+GunHeldProjectile.DisplayName: 手持枪械
+MoonMeteorLarge.DisplayName: 大型陨星
+MoonMeteorMedium.DisplayName: 中陨星
+MoonMeteorSmall.DisplayName: 小陨星
+NebulaMeteor.DisplayName: 星云陨星
+SolarMeteor.DisplayName: 日耀陨星
+StardustMeteor.DisplayName: 星尘陨星
+VortexMeteor.DisplayName: 星旋陨星
+DianiteTomeProjectile.DisplayName: 望舒陨星
+DianiteTomeProjectileSmall.DisplayName: 小望舒陨星
+AluminumShortswordProjectile.DisplayName: 铝短剑
+// SeleniteSwordSwing.DisplayName: Selenite Sword
+// SeleniteSpearProjectile.DisplayName: Selenite Spear
+// SeleniteSpearProjectileShoot.DisplayName: Selenite Spear
+// SeleniteSwordProjectile.DisplayName: Selenite Straightsword
+ClawWrenchProjectile.DisplayName: 钩形扳手
+MoonSwordProjectile.DisplayName: 月煌天刃
+MoonSwordSwing.DisplayName: 月煌天刃
+ArchersLineProjectile.DisplayName: 弓手界限
+CruithneGreenSlug.DisplayName: 绿色子弹
+DeliriumShell.DisplayName: 紊乱炮弹
+LHBMinigunProjectile.DisplayName: LHB-59
+NWAMissile.DisplayName: NWA-5000
+PlasmaGrenade.DisplayName: 静滞手雷
+CalcicCaneMinion.DisplayName: 陨星煞鬼
+ChandriumStaffMinion.DisplayName: 弦月鬼
+ChandriumWhipProjectile.DisplayName: 常曦石鞭
+MoonTombstone.DisplayName: 月球墓石
+SeleniteDrillProjectile.DisplayName: 嫦娥石钻头
+ChandriumDrillProjectile.DisplayName: 常曦石钻头
+DianiteDrillProjectile.DisplayName: 望舒石钻头
+ArtemiteDrillProjectile.DisplayName: 月光石钻头
+FlamingMeteor.DisplayName: 燃烧的陨星
+MeteorPortal.DisplayName: 陨星雨之门
+ImbriumJewelProjectile.DisplayName: 雨海珠玉
+ImbriumJewelMeteor.DisplayName: 雨海珠玉
+HandheldEngineProjectile.DisplayName: 手持推进器
+HandheldEngineHitbox.DisplayName: 手持推进器
+ZombieSecurityBullet.DisplayName: 警卫员尸骸
+// ArtemiteMagnumProjectile.DisplayName: Artemite Magnum
+TychoBullet.DisplayName: 第谷 .50
+DianiteMeteor.DisplayName: 望舒陨星
+DianiteMeteorSmall.DisplayName: 望舒陨星
+PhantasmalImp.DisplayName: 幻影煞鬼
+PhantasmalImpSmall.DisplayName: 幻影煞鬼
+PhantasmalPortal.DisplayName: 幻影传送门
+MoonPhaseGlobeProjectile.DisplayName: 月相地球仪
+DianiteForkCoreProjectile.DisplayName: 望舒焱叉
+DianiteForkProjectile.DisplayName: 望舒焱叉
+RegolithDebris.DisplayName: 风化碎片
+Procellarum_HalberdProjectile.DisplayName: 风暴洋
+Procellarum_LightBolt.DisplayName: 风暴洋
+InvarArrow.DisplayName: 殷钢箭
+InvarBullet.DisplayName: 殷钢弹
+RapaciousBrandProjectile.DisplayName: 贪噬之刃
+RapaciousBrandSwing.DisplayName: 贪噬之刃
+// ArtemiteBolt.DisplayName: Artemite Bolt
+// ArtemiteBowHeld.DisplayName: Artemite Bow
+LuminiteExplosion.DisplayName: 夜明爆炸
+LuminiteShard.DisplayName: 夜明碎片
+LuminiteStar.DisplayName: 夜明星
+PhantasmalBolt.DisplayName: 幻影闪电
+CraterDemonPet.DisplayName: 迷你陨星恶煞
+// SeleniteGreatswordSwing.DisplayName: Selenite Greatsword
+MoonGoldTombstone.DisplayName: 月球金墓石
+DianitePortal.DisplayName: 望舒传送门
+// SeleniteBoomerang.DisplayName: Selenite Boomerang
+// SeleniteGreatswordSwing2.DisplayName: Selenite Greatsword
+// SeleniteSpearProjectileThrown.DisplayName: Selenite Spear
+// SeleniteSlash.DisplayName: Selenite Slash
+// SeleniteSpike.DisplayName: Selenite Spike
+SilicaCrimsandBall.DisplayName: 猩红硅砂
+SilicaCrimsandFalling.DisplayName: 猩红硅沙
+SilicaEbonsandBall.DisplayName: 腐化硅沙
+SilicaEbonsandFalling.DisplayName: 腐化硅沙
+SilicaPearlsandBall.DisplayName: 神圣硅沙
+SilicaPearlsandFalling.DisplayName: 神圣硅沙
+SilicaSandBall.DisplayName: 硅砂
+SilicaSandFalling.DisplayName: 硅砂
+MoonWormDust.DisplayName: 吞月巨虫尘
+FrigorianGazeProjectile.DisplayName: 霜眼凝寒
+FrigorianIceSpike.DisplayName: 冰刺
+FrigorianIceCrystal.DisplayName: 冰刺
+StarDestroyerBeam.DisplayName: 歼星炮
+StarDestroyerStarBlue.DisplayName: 歼星炮
+StarDestroyerStarYellow.DisplayName: 歼星炮
+MoonRubble.DisplayName: 月球瓦砾
+MoonLichNPCSummon.DisplayName: 幻月巫妖
+WaveRifleLaser.DisplayName: 波动炮
+LichBolt.DisplayName: 巫妖闪电
+GreenLaser.DisplayName: 绿光激光
+LunarBarf.DisplayName: 月之呕吐
+FrigorianIceShard.DisplayName: 冰刺
+MicronovaBeam.DisplayName: 微新星光束
+MicronovaPortal.DisplayName: 微新星传送门
+WaveStar.DisplayName: 波浪星
+InhibitorFieldGrenade.DisplayName: 静滞手雷
+CrescentMoonProjectile.DisplayName: 蛾眉月
+LunarCrystalProjectile.DisplayName: 月之碎晶
+ImbriumJewelPhantasmalSkull.DisplayName: 幻影颅骨
+ChampionsBladeSwing.DisplayName: 斗士之锋
+ChampionsBladeSwingEmpowered.DisplayName: 斗士之锋
+StarDestroyerStar_Blue.DisplayName: 歼星炮蓝星
+StarDestroyerStar_Yellow.DisplayName: 歼星炮黄星
+StarDestroyerStar.DisplayName: 歼星炮星
+// SeleniteGreatswordSwingEmpowered.DisplayName: Selenite Greatsword
+RocheChakramProjectile.DisplayName: 月光岩环
+RocheSpike.DisplayName: 月光岩环
+// SeleniteSwordShoot.DisplayName: Selenite Sword Shoot
+BlueEnergyBolt.DisplayName: 蓝能量闪电
+BlueGunHeld.DisplayName: 蓝色电击枪
+PurpleEnergyBolt.DisplayName: 紫电击弹
+RedEnergyBolt.DisplayName: 红电击弹
+RedGunHeld.DisplayName: 红色电击枪
+WaveGunEnergyBolt.DisplayName: 能量弹
+WaveGunBlueHeld.DisplayName: 蓝色电击枪
+WaveGunDualHeld.DisplayName: 双持电击枪
+WaveGunRedHeld.DisplayName: 红色电击枪
+WaveGunRifleHeld.DisplayName: 波动炮
+ChampionsBladeSlash.DisplayName: 斗士之锋
+CrescentScriptureProjectile.DisplayName: 半月颂歌
+LuminiteWave.DisplayName: 夜明波
+LunarBlood.DisplayName: 月之精血
+TotalityProjectile.DisplayName: 终绝
+Explosion.DisplayName: 爆炸
+ZombieEngineerExplosion.DisplayName: 工程师尸骸爆炸
+// SeleniteSwordSlash.DisplayName: Selenite Sword
+ManisolBladeMoon.DisplayName: 旭日之锋
+ManisolBladeSol.DisplayName: 皎月之锋
+ManisolBladeSolExplosion.DisplayName: 旭日之锋爆炸
+ManisolBladeShadow.DisplayName: 日月双锋
+LuminiteRune.DisplayName: 夜明符文
+ChampionsBladeHeldProjectile.DisplayName: 斗士之锋
+ChampionsBladeBoltProjectile.DisplayName: 斗士之锋闪电
+ArmstrongGauntletProjectile.DisplayName: 阿姆斯特朗拳套
+LuminiteBolt.DisplayName: 夜明闪电
+WornLunarianDaggerHeld.DisplayName: 破损的月之匕
+DroneLaser.DisplayName: P.D.C.D. "蜂鸟"
+DroneMinion.DisplayName: P.D.C.D. "蜂鸟"
+ExsanguinatorProjectile.DisplayName: 放血魔
+IlmeniteHeld.DisplayName: 铁钛之弦
+IlmeniteRegularProj.DisplayName: 铁钛之弦
+IlmeniteAltProj.DisplayName: 铁钛之弦
+IlminiteExplosion.DisplayName: 铁钛之弦爆炸
+IlmeniteExplosion.DisplayName: 铁钛之弦爆炸
+HummingbirdBullet.DisplayName: P.D.C.D. "蜂鸟"
+HummingbirdDrone.DisplayName: P.D.C.D. "蜂鸟"
+CalcicCaneBolt.DisplayName: 钙质手杖闪电
+GreatstaffOfHorusMinion.DisplayName: 太阳粒子
+HorusExplosion.DisplayName: 荷鲁斯爆炸
+RyuguMinion.DisplayName: 月兔
+RyuguShell.DisplayName: 月兔
+CrescentScriptureSlash.DisplayName: 半月颂歌
+TotalitySlashProjectile.DisplayName: 终绝
+TotalitySmallSlashProjectile.DisplayName: 终绝
+// SchroteriProjectile.DisplayName: Schroteri Projectile
