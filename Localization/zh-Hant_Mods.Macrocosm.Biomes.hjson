@@ -14,18 +14,18 @@ BloodMoonBiome: {
 }
 
 BasaltBiome: {
-	DisplayName: 玄武岩之地
-	TownNPCDialogueName: 玄武岩之地
+	DisplayName: 玄武巖之地
+	TownNPCDialogueName: 玄武巖之地
 }
 
 IrradiationBiome: {
-	DisplayName: 辐照之地
-	TownNPCDialogueName: 辐照之地
+	DisplayName: 輻照之地
+	TownNPCDialogueName: 輻照之地
 }
 
 DemonSunBiome: {
-	DisplayName: 渎耀之地
-	TownNPCDialogueName: 渎耀之地
+	DisplayName: 瀆耀之地
+	TownNPCDialogueName: 瀆耀之地
 }
 
 MoonNightBiome: {
