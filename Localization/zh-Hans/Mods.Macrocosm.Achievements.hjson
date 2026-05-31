@@ -1,0 +1,39 @@
+BuildRocket: {
+	Description: 建造你的第一枚火箭
+	FriendlyName: 小菜多碟
+}
+
+CraftSpaceSuit: {
+	Description: 组装你的第一套太空服
+	FriendlyName: 缺氧
+}
+
+DefeatCraterDemon: {
+	Description: 击败陨星恶煞,一个盘踞在月球难以捉摸的生物.
+	FriendlyName: 彗星撞地球
+}
+
+SurviveMoon: {
+	Description: 在月球上度过一个完整的昼夜,从日出到日落.
+	FriendlyName: 还没有人代表月亮消灭你?
+}
+
+SurviveDemonSun: {
+	Description: 在渎耀之日中幸存下来,这是一场昼夜交替的宇宙事件,它会带来无数扭曲的、复活的尸体.
+	FriendlyName: 1 VS 1,000,000
+}
+
+TravelToMoon: {
+	Description: 抵达月球——地球唯一的天然卫星.希望你记得带上太空服！
+	FriendlyName: 人类的一大步
+}
+
+PlantFlag: {
+	Description: 在任意世界中插下一面旗帜.
+	FriendlyName: 标记领地
+}
+
+FindApolloLander: {
+	Description: 找到阿波罗11号着陆器的残骸.
+	FriendlyName: “鹰号”已经着陆
+}

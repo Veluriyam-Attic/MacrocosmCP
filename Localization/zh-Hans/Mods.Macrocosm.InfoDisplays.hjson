@@ -1,0 +1,4 @@
+BarometerInfoDisplay.DisplayName: 大气压力信息显示
+GeigerMullerInfoDisplay.DisplayName: 大气压力信息显示
+NephelometerInfoDisplay.DisplayName: 污染等级信息显示
+ThermometerInfoDisplay.DisplayName: 环境温度信息显示

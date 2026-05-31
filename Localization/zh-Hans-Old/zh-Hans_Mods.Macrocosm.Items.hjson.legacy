@@ -1,0 +1,1564 @@
+SetBonuses: {
+}
+
+CelestialBulwark: {
+}
+
+AluminumBoots: {
+	// DisplayName: Aluminum Boots
+	// Tooltip: ""
+}
+
+AluminumBreastplate: {
+}
+
+AluminumHelmet: {
+}
+
+SeleniteBreastplate: {
+}
+
+SeleniteHelmet: {
+}
+
+SeleniteLeggings: {
+}
+
+AstronautHelmet: {
+}
+
+AstronautLeggings: {
+}
+
+AstronautSuit: {
+}
+
+ChandriumBreastplate: {
+}
+
+ChandriumHelm: {
+}
+
+ChandriumLeggings: {
+}
+
+DianiteBreastplate: {
+}
+
+DianiteLeggings: {
+}
+
+DianiteVisor: {
+}
+
+ArtemiteBreastplate: {
+}
+
+ArtemiteHeadgear: {
+}
+
+ArtemiteLeggings: {
+}
+
+CraterDemonBossBag: {
+}
+
+CraterDemonSummon: {
+}
+
+Moonstone: {
+}
+
+BanHammer: {
+}
+
+DevPick: {
+}
+
+RocketPlacer: {
+}
+
+Rocket: {
+}
+
+Teleporter: {
+}
+
+AluminumBar: {
+}
+
+AluminumOre: {
+}
+
+SeleniteBar: {
+}
+
+SeleniteOre: {
+}
+
+BrokenHeroShield: {
+}
+
+ChandriumBar: {
+}
+
+ChandriumOre: {
+}
+
+CortexFragment: {
+}
+
+CosmicDust: {
+}
+
+CosmicEssence: {
+}
+
+DeliriumPlating: {
+}
+
+DianiteBar: {
+}
+
+DianiteOre: {
+}
+
+LithiumOre: {
+}
+
+LuminiteCrystal: {
+}
+
+OilShale: {
+}
+
+OxygenTank: {
+}
+
+PrintedCircuitBoard: {
+}
+
+ArtemiteBar: {
+}
+
+ArtemiteOre: {
+}
+
+SiliconOre: {
+}
+
+Silicon: {
+}
+
+MeteoricChunk: {
+}
+
+NebulaChunk: {
+}
+
+SolarChunk: {
+}
+
+StardustChunk: {
+}
+
+VortexChunk: {
+}
+
+SpaceShuttle: {
+}
+
+IrradiatedBrick: {
+}
+
+IrradiatedBrickWall: {
+}
+
+IrradiatedRock: {
+}
+
+IrradiatedRockWall: {
+}
+
+Protolith: {
+}
+
+ProtolithWall: {
+}
+
+Regolith: {
+}
+
+RegolithBrick: {
+}
+
+RegolithBrickWall: {
+}
+
+RegolithWall: {
+}
+
+AdamantiteLoom: {
+}
+
+TitaniumLoom: {
+}
+
+SolarPanelLarge: {
+}
+
+BloodSunRising: {
+}
+
+DarkFortress: {
+}
+
+Empress: {
+}
+
+Overlord: {
+}
+
+Retributor: {
+}
+
+WhenDayBreaks: {
+}
+
+Freedomfaller: {
+}
+
+ShoresOfOblivion: {
+}
+
+CraterDemonRelic: {
+}
+
+MoonGoldTombstone: {
+}
+
+MoonTombstone: {
+}
+
+CraterDemonTrophy: {
+}
+
+AluminumAxe: {
+}
+
+AluminumHammer: {
+}
+
+AluminumPickaxe: {
+}
+
+SeleniteAxe: {
+}
+
+SeleniteDrill: {
+}
+
+SeleniteHammer: {
+}
+
+SelenitePickaxe: {
+}
+
+ChandriumAxe: {
+}
+
+ChandriumDrill: {
+}
+
+ChandriumHammer: {
+}
+
+ChandriumPickaxe: {
+}
+
+DianiteAxe: {
+}
+
+DianiteDrill: {
+}
+
+DianiteHammer: {
+}
+
+DianitePickaxe: {
+}
+
+ArtemiteAxe: {
+}
+
+ArtemiteDrill: {
+}
+
+ArtemiteHammer: {
+}
+
+ArtemitePickaxe: {
+}
+
+CraterDemonMask: {
+}
+
+DianiteFork: {
+}
+
+DianiteTome: {
+}
+
+ImbriumJewel: {
+}
+
+AluminumBroadsword: {
+}
+
+AluminumShortsword: {
+}
+
+SeleniteGreatsword: {
+}
+
+SeleniteSpear: {
+}
+
+SeleniteSword: {
+}
+
+ClawWrench: {
+}
+
+Crucible: {
+}
+
+MoonSword: {
+}
+
+Noxsaber: {
+}
+
+AluminumBow: {
+}
+
+ArchersLine: {
+}
+
+Copernicus: {
+}
+
+Cruithne: {
+}
+
+LHBMinigun: {
+}
+
+NWARocketLauncher: {
+}
+
+ArtemiteBow: {
+}
+
+ArtemiteMagnum: {
+}
+
+CalcicCane: {
+}
+
+ChandriumStaff: {
+}
+
+ChandriumWhip: {
+}
+
+HandheldEngine: {
+}
+
+HazardWall: {
+}
+
+SpaceDust: {
+}
+
+MoonPhaseGlobe: {
+}
+
+TychoDesertEagle: {
+}
+
+ChampionsBladeBroken: {
+}
+
+ChampionsBladeRepaired: {
+}
+
+ChampionsBlade: {
+}
+
+SilicaCrimsand: {
+}
+
+SilicaEbonsand: {
+}
+
+SilicaPearlsand: {
+}
+
+SilicaSand: {
+}
+
+LaunchPadMarker: {
+}
+
+SteelBar: {
+}
+
+SteelHamaxe: {
+}
+
+SteelPickaxe: {
+}
+
+SteelZweihander: {
+}
+
+SteelCrossbow: {
+}
+
+SteelRifle: {
+}
+
+IndustrialPlating: {
+}
+
+IndustrialPlatform: {
+}
+
+IndustrialHazardWall: {
+}
+
+IndustrialHazardWallUnsafe: {
+}
+
+IndustrialPlatingWall: {
+}
+
+IndustrialPlatingWallUnsafe: {
+}
+
+IndustrialSquarePaneledWall: {
+}
+
+IndustrialSquarePaneledWallUnsafe: {
+}
+
+IndustrialTrimmingWall: {
+}
+
+IndustrialTrimmingWallUnsafe: {
+}
+
+IndustrialCandle: {
+}
+
+IndustrialLamp: {
+}
+
+IndustrialLantern: {
+}
+
+IndustrialNeonTube: {
+}
+
+IndustrialCrate: {
+}
+
+IndustrialGurney: {
+}
+
+IndustrialTable: {
+}
+
+IndustrialWorkbench: {
+}
+
+IndustrialBed: {
+}
+
+IndustrialChair: {
+}
+
+IndustrialChairSleek: {
+}
+
+IndustrialDeskLamp: {
+}
+
+IndustrialSofa: {
+}
+
+IndustrialChest: {
+}
+
+IndustrialChestElectronic: {
+}
+
+IndustrialLocker: {
+}
+
+IndustrialDoor: {
+}
+
+IndustrialBulkhead: {
+}
+
+IndustrialBathtub: {
+}
+
+IndustrialControlPanel: {
+}
+
+IndustrialControlStation: {
+}
+
+IndustrialDeskClock: {
+}
+
+IndustrialPiano: {
+}
+
+IndustrialSink: {
+}
+
+IndustrialBookcase: {
+}
+
+IndustrialCeilingMonitor: {
+}
+
+IndustrialDeskMonitor: {
+}
+
+IndustrialWallMonitor: {
+}
+
+IndustrialDresser: {
+}
+
+IndustrialToilet: {
+}
+
+OilRefinery: {
+}
+
+SolarPanelSmall: {
+}
+
+Procellarum: {
+}
+
+LexanGlass: {
+}
+
+QuestionMark: {
+}
+
+ZombieFinger: {
+}
+
+XFLR6: {
+}
+
+InvarArrow: {
+}
+
+InvarBullet: {
+}
+
+SpaceTeddy: {
+}
+
+TeddyBear: {
+}
+
+SteelChestplate: {
+}
+
+SteelHelmet: {
+}
+
+SteelLeggings: {
+}
+
+RapaciousBrand: {
+}
+
+Motor: {
+}
+
+Apollo115: {
+}
+
+CraterDemonPet: {
+}
+
+MoonGoldCrescent: {
+}
+
+MoonGoldLunarCross: {
+}
+
+MoonHeadstone: {
+}
+
+Coal: {
+}
+
+OxygenSystem: {
+}
+
+MercurianBanner: {
+}
+
+DeadworldMusicBox: {
+	// DisplayName: Music Box (Deadworld)
+	// Tooltip: ""
+}
+
+RequiemMusicBox: {
+	// DisplayName: Music Box (Requiem)
+	// Tooltip: ""
+}
+
+SpaceInvaderMusicBox: {
+	// DisplayName: Music Box (Space Invader)
+	// Tooltip: ""
+}
+
+StygiaMusicBox: {
+	// DisplayName: Music Box (Stygia)
+	// Tooltip: ""
+}
+
+IntoTheUnknownMusicBox: {
+	// DisplayName: Music Box (Into The Unknown)
+	// Tooltip: ""
+}
+
+OsmiumBoots: {
+}
+
+EarthGlobe: {
+}
+
+PowerJunction: {
+}
+
+Computer: {
+}
+
+HelixPatternDesign: {
+}
+
+Gear: {
+}
+
+SpacesuitFabric: {
+}
+
+ConstructionLight: {
+}
+
+OreExcavator: {
+}
+
+AlienResidue: {
+}
+
+Plastic: {
+}
+
+ReactorComponent: {
+}
+
+ReactorHousing: {
+}
+
+Fabricator: {
+}
+
+Battery: {
+}
+
+CompactDisk: {
+}
+
+ElasticFiber: {
+}
+
+RocketLandingLeg: {
+}
+
+RocketPlating: {
+}
+
+CoalBrick: {
+}
+
+LandingGear: {
+}
+
+FuelCanister: {
+}
+
+EngineComponent: {
+}
+
+CopperWire: {
+}
+
+GothicCoalBrick: {
+}
+
+SpookyDookie: {
+}
+
+CheeseBlock: {
+}
+
+Cheese: {
+}
+
+CapstoneRush: {
+}
+
+CheeseBathtub: {
+}
+
+CheeseBed: {
+}
+
+CheeseBookcase: {
+}
+
+CheeseCandelabra: {
+}
+
+CheeseCandle: {
+}
+
+CheeseChair: {
+}
+
+CheeseChandelier: {
+}
+
+CheeseChest: {
+}
+
+CheeseClock: {
+}
+
+CheeseDoor: {
+}
+
+CheeseDresser: {
+}
+
+CheeseLamp: {
+}
+
+CheeseLantern: {
+}
+
+CheesePiano: {
+}
+
+CheeseSink: {
+}
+
+CheeseSofa: {
+}
+
+CheeseTable: {
+}
+
+CheeseToilet: {
+}
+
+CheeseWorkbench: {
+}
+
+LuminiteBookcase: {
+}
+
+LuminiteChair: {
+}
+
+LuminiteClock: {
+}
+
+LuminiteToilet: {
+}
+
+WindTurbine: {
+}
+
+EmployeeBoots: {
+}
+
+EmployeeSuit: {
+}
+
+EmployeeVisor: {
+}
+
+Boombox: {
+}
+
+StopSign: {
+}
+
+WindTurbineLarge: {
+}
+
+WindTurbineSmall: {
+}
+
+WeCanDoItBlue: {
+}
+
+WeCanDoItYellow: {
+}
+
+DisplayScreen: {
+}
+
+BurnerGenerator: {
+}
+
+IndustrialServer: {
+}
+
+InANutshell: {
+}
+
+Medkit: {
+}
+
+FrigorianGaze: {
+}
+
+StarDestroyer: {
+}
+
+WaveGunBlue: {
+}
+
+WaveGunRed: {
+}
+
+WaveGunDual: {
+}
+
+Cynthalith: {
+}
+
+AstraBookcase: {
+}
+
+AstraChair: {
+}
+
+AstraChest: {
+}
+
+AstraClock: {
+}
+
+AstraToilet: {
+}
+
+CosmicEmberBookcase: {
+}
+
+CosmicEmberChair: {
+}
+
+CosmicEmberChest: {
+}
+
+CosmicEmberClock: {
+}
+
+CosmicEmberToilet: {
+}
+
+CryocoreBookcase: {
+}
+
+CryocoreChair: {
+}
+
+CryocoreChest: {
+}
+
+CryocoreClock: {
+}
+
+CryocoreToilet: {
+}
+
+DarkCelestialBookcase: {
+}
+
+DarkCelestialChair: {
+}
+
+DarkCelestialChest: {
+}
+
+DarkCelestialClock: {
+}
+
+DarkCelestialToilet: {
+}
+
+HeavenforgeBookcase: {
+}
+
+HeavenforgeChair: {
+}
+
+HeavenforgeChest: {
+}
+
+HeavenforgeClock: {
+}
+
+HeavenforgeToilet: {
+}
+
+LuminiteChest: {
+}
+
+LunarRustBookcase: {
+}
+
+LunarRustChair: {
+}
+
+LunarRustChest: {
+}
+
+LunarRustClock: {
+}
+
+LunarRustToilet: {
+}
+
+MercuryBookcase: {
+}
+
+MercuryChair: {
+}
+
+MercuryChest: {
+}
+
+MercuryClock: {
+}
+
+MercuryToilet: {
+}
+
+StarRoyaleBookcase: {
+}
+
+StarRoyaleChair: {
+}
+
+StarRoyaleChest: {
+}
+
+StarRoyaleClock: {
+}
+
+StarRoyaleToilet: {
+}
+
+XaocKey: {
+}
+
+AstraCandelabra: {
+}
+
+AstraCandle: {
+}
+
+AstraLantern: {
+}
+
+CosmicEmberCandelabra: {
+}
+
+CosmicEmberCandle: {
+}
+
+CosmicEmberLantern: {
+}
+
+CryocoreCandelabra: {
+}
+
+CryocoreCandle: {
+}
+
+CryocoreLantern: {
+}
+
+DarkCelestialCandelabra: {
+}
+
+DarkCelestialCandle: {
+}
+
+DarkCelestialLantern: {
+}
+
+HeavenforgeCandelabra: {
+}
+
+HeavenforgeCandle: {
+}
+
+HeavenforgeLantern: {
+}
+
+LuminiteCandelabra: {
+}
+
+LuminiteCandle: {
+}
+
+LuminiteLantern: {
+}
+
+LunarRustCandelabra: {
+}
+
+LunarRustCandle: {
+}
+
+LunarRustLantern: {
+}
+
+MercuryCandelabra: {
+}
+
+MercuryCandle: {
+}
+
+MercuryLantern: {
+}
+
+StarRoyaleCandelabra: {
+}
+
+StarRoyaleCandle: {
+}
+
+StarRoyaleLantern: {
+}
+
+AntiRadiationPills: {
+}
+
+AirVent: {
+}
+
+Sledgehammer: {
+}
+
+IrradiatedAltar: {
+}
+
+IrradiatedBrickWallUnsafe: {
+}
+
+IrradiatedRockWallUnsafe: {
+}
+
+ProtolithWallUnsafe: {
+}
+
+RegolithBrickWallUnsafe: {
+}
+
+RegolithWallUnsafe: {
+}
+
+Micronova: {
+}
+
+LexanGlassWall: {
+}
+
+KyaniteScarabCritter: {
+}
+
+Fridge: {
+}
+
+IVPole: {
+}
+
+DevOmnitool: {
+}
+
+LunarCrystal: {
+}
+
+CrescentMoon: {
+}
+
+RocheChakram: {
+}
+
+CrescentScripture: {
+}
+
+Totality: {
+}
+
+AstraWorkbench: {
+}
+
+CosmicEmberWorkbench: {
+}
+
+CryocoreWorkbench: {
+}
+
+DarkCelestialWorkbench: {
+}
+
+HeavenforgeWorkbench: {
+}
+
+LuminiteWorkbench: {
+}
+
+LunarRustWorkbench: {
+}
+
+MercuryWorkbench: {
+}
+
+StarRoyaleWorkbench: {
+}
+
+InvarBar: {
+}
+
+NickelOre: {
+}
+
+InhibitorFieldGrenade: {
+	// DisplayName: Stasis Grenade
+	// Tooltip: ""
+}
+
+QuartzFragment: {
+}
+
+ManisolBlades: {
+}
+
+ArmstrongGauntlets: {
+}
+
+WornLunarianDagger: {
+}
+
+Canister: {
+}
+
+RocketFuelCanister: {
+}
+
+TempestuousBand: {
+}
+
+ArcaneBarnacle: {
+}
+
+MomentumLash: {
+}
+
+Ilmenite: {
+}
+
+StalwartTowerShield: {
+}
+
+ThaumaturgicWard: {
+}
+
+HummingbirdDroneRemote: {
+}
+
+GreatstaffOfHorus: {
+}
+
+LuminiteTorch: {
+}
+
+RyuguStaff: {
+}
+
+AstraDoor: {
+}
+
+CosmicEmberDoor: {
+}
+
+CryocoreDoor: {
+}
+
+DarkCelestialDoor: {
+}
+
+HeavenforgeDoor: {
+}
+
+LuminiteDoor: {
+}
+
+LunarRustDoor: {
+}
+
+MercuryDoor: {
+}
+
+StarRoyaleDoor: {
+}
+
+SolarCell: {
+}
+
+LaserSight: {
+}
+
+ProtolithBrick: {
+}
+
+ProtolithBrickWall: {
+}
+
+ProtolithBrickWallUnsafe: {
+}
+
+AstraBathtub: {
+}
+
+AstraBed: {
+}
+
+AstraChandelier: {
+}
+
+AstraDresser: {
+}
+
+AstraLamp: {
+}
+
+AstraPiano: {
+}
+
+AstraSink: {
+}
+
+AstraSofa: {
+}
+
+AstraTable: {
+}
+
+CosmicEmberBathtub: {
+}
+
+CosmicEmberBed: {
+}
+
+CosmicEmberChandelier: {
+}
+
+CosmicEmberDresser: {
+}
+
+CosmicEmberLamp: {
+}
+
+CosmicEmberPiano: {
+}
+
+CosmicEmberSink: {
+}
+
+CosmicEmberSofa: {
+}
+
+CosmicEmberTable: {
+}
+
+CryocoreBathtub: {
+}
+
+CryocoreBed: {
+}
+
+CryocoreChandelier: {
+}
+
+CryocoreDresser: {
+}
+
+CryocoreLamp: {
+}
+
+CryocorePiano: {
+}
+
+CryocoreSink: {
+}
+
+CryocoreSofa: {
+}
+
+CryocoreTable: {
+}
+
+DarkCelestialBathtub: {
+}
+
+DarkCelestialBed: {
+}
+
+DarkCelestialChandelier: {
+}
+
+DarkCelestialDresser: {
+}
+
+DarkCelestialLamp: {
+}
+
+DarkCelestialPiano: {
+}
+
+DarkCelestialSink: {
+}
+
+DarkCelestialSofa: {
+}
+
+DarkCelestialTable: {
+}
+
+HeavenforgeBathtub: {
+}
+
+HeavenforgeBed: {
+}
+
+HeavenforgeChandelier: {
+}
+
+HeavenforgeDresser: {
+}
+
+HeavenforgeLamp: {
+}
+
+HeavenforgePiano: {
+}
+
+HeavenforgeSink: {
+}
+
+HeavenforgeSofa: {
+}
+
+HeavenforgeTable: {
+}
+
+LuminiteBathtub: {
+}
+
+LuminiteBed: {
+}
+
+LuminiteChandelier: {
+}
+
+LuminiteDresser: {
+}
+
+LuminiteLamp: {
+}
+
+LuminitePiano: {
+}
+
+LuminiteSink: {
+}
+
+LuminiteSofa: {
+}
+
+LuminiteTable: {
+}
+
+LunarRustBathtub: {
+}
+
+LunarRustBed: {
+}
+
+LunarRustChandelier: {
+}
+
+LunarRustDresser: {
+}
+
+LunarRustLamp: {
+}
+
+LunarRustPiano: {
+}
+
+LunarRustSink: {
+}
+
+LunarRustSofa: {
+}
+
+LunarRustTable: {
+}
+
+MercuryBathtub: {
+}
+
+MercuryBed: {
+}
+
+MercuryChandelier: {
+}
+
+MercuryDresser: {
+}
+
+MercuryLamp: {
+}
+
+MercuryPiano: {
+}
+
+MercurySink: {
+}
+
+MercurySofa: {
+}
+
+MercuryTable: {
+}
+
+StarRoyaleBathtub: {
+}
+
+StarRoyaleBed: {
+}
+
+StarRoyaleChandelier: {
+}
+
+StarRoyaleDresser: {
+}
+
+StarRoyaleLamp: {
+}
+
+StarRoyalePiano: {
+}
+
+StarRoyaleSink: {
+}
+
+StarRoyaleSofa: {
+}
+
+StarRoyaleTable: {
+}
+
+AstraPlatform: {
+}
+
+CosmicEmberPlatform: {
+}
+
+CryocorePlatform: {
+}
+
+DarkCelestialPlatform: {
+}
+
+HeavenforgePlatform: {
+}
+
+LuminitePlatform: {
+}
+
+LunarRustPlatform: {
+}
+
+MercuryPlatform: {
+}
+
+StarRoyalePlatform: {
+}
+
+CheesePlatform: {
+}
+
+CheeseWall: {
+}
+
+CircuitProbe: {
+}
+
+IndustrialBattery: {
+}
+
+AdvancedCircuitBoard: {
+}
+
+ClydersHood: {
+}
+
+ClydersRobe: {
+}
+
+ClydersWings: {
+}
+
+Schroteri: {
+}
+
+Conveyor: {
+}
+
+KeroseneGenerator: {
+}

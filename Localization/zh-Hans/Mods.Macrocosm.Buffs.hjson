@@ -1,0 +1,239 @@
+Fear: {
+	DisplayName: 恐惧
+	Description: 我的天啊，那到底是什么？
+}
+
+SuitBreach: {
+	DisplayName: 防护服损坏
+	Description: 你暴露在了辐射中！
+}
+
+Depressurized: {
+	DisplayName: 失压
+	Description: 热血沸腾!
+}
+
+ChandriumWhipBuff: {
+	DisplayName: 常曦附身
+	Description: 你下一次使用你的常曦石鞭的攻击将会造成额外的伤害！
+}
+
+CalcicCaneMinionBuff: {
+	DisplayName: 陨星煞鬼
+	Description: 陨星煞鬼为你而战！
+}
+
+ChandriumStaffMinionBuff: {
+	DisplayName: 弦月鬼
+	Description: 弦月鬼为你而战！
+}
+
+SpaceShuttle: {
+	DisplayName: 航天飞机
+	Description: 谨以此物，向哥伦比亚号与挑战者号的遇难宇航员致以崇高敬意
+}
+
+Procellarum_LightningMarkDebuff: {
+	DisplayName: 风暴闪电标记
+	Description: 你将会从风暴洋的闪电攻击中受到双倍伤害
+}
+
+HandheldEngineOverheat: {
+	DisplayName: 过热
+	Description: 你的武器过热了!
+}
+
+CraterDemonPet: {
+	DisplayName: 迷你陨星恶煞
+	Description: 他在做一些事情...
+}
+
+MedkitHigh: {
+	DisplayName: 医疗包
+	Description: 你在快速恢复中
+}
+
+MedkitLow: {
+	DisplayName: 医疗包
+	Description: 你在缓慢恢复中
+}
+
+MedkitMedium: {
+	DisplayName: 医疗包
+	Description: 你在稳定恢复中
+}
+
+Irradiated: {
+	DisplayName: 暴露于辐射中
+	Description: 你现在拥有了辐射病
+}
+
+Blindness: {
+	DisplayName: 失明
+	Description: 你的视力正在下降
+}
+
+MildNecrosis: {
+	DisplayName: 轻度坏死
+	Description: 你的身体正在腐烂
+}
+
+Necrosis: {
+	DisplayName: 坏死
+	Description: 你的身体正在急速腐烂
+}
+
+OrganFailure: {
+	DisplayName: 器官衰竭
+	Description: 你的器官正在衰竭
+}
+
+Paralysis: {
+	DisplayName: 瘫痪
+	Description: 你无法行动!
+}
+
+WeakBones: {
+	DisplayName: 骨质疏松
+	Description: 你感觉到你的骨头非常脆弱...
+}
+
+Fatigue: {
+	DisplayName: 疲劳
+	Description: 你觉得很累...
+}
+
+AntiRadiationPills: {
+	DisplayName: 抗辐射药丸
+	Description: 你已经摆脱了辐射病的困扰
+}
+
+Melting: {
+	DisplayName: 融化
+	Description: 你正在融化
+}
+
+HummingbirdDroneSummonBuff: {
+	DisplayName: P.D.C.D “蜂鸟”
+	Description: 战斗无人机会保护你
+}
+
+GreatstaffOfHorusMinionBuff: {
+	DisplayName: 荷鲁斯之杖
+	Description: 太阳粒子为你而战
+}
+
+HorusBurn: {
+	DisplayName: 荷鲁斯之光
+	Description: 被太阳所灼烧
+}
+
+RyuguSummonBuff: {
+	DisplayName: 月兔炮
+	Description: 月兔炮为你而战
+}
+
+ProcellarumLightningMarkDebuff: {
+	DisplayName: Procellarum Lightning Mark Debuff
+	Description: Mods.Macrocosm.Buffs.ProcellarumLightningMarkDebuff.Description
+}
+
+ProcellarumLightningMark: {
+	DisplayName: Procellarum Lightning Mark
+	Description: Mods.Macrocosm.Buffs.ProcellarumLightningMark.Description
+}
+
+TotalitySlashed: {
+	DisplayName: Totality Slashed
+	Description: Mods.Macrocosm.Buffs.TotalitySlashed.Description
+}
+
+TotalityTag: {
+	DisplayName: Totality Tag
+	Description: Mods.Macrocosm.Buffs.TotalityTag.Description
+}
+
+Stasis: {
+	DisplayName: Stasis
+	Description: Mods.Macrocosm.Buffs.Stasis.Description
+}
+
+MageBoosterDamage1: {
+	DisplayName: Mage Booster Damage1
+	Description: Mods.Macrocosm.Buffs.MageBoosterDamage1.Description
+}
+
+MageBoosterDamage2: {
+	DisplayName: Mage Booster Damage2
+	Description: Mods.Macrocosm.Buffs.MageBoosterDamage2.Description
+}
+
+MageBoosterMana1: {
+	DisplayName: Mage Booster Mana1
+	Description: Mods.Macrocosm.Buffs.MageBoosterMana1.Description
+}
+
+MageBoosterMana2: {
+	DisplayName: Mage Booster Mana2
+	Description: Mods.Macrocosm.Buffs.MageBoosterMana2.Description
+}
+
+MageBoosterRegen1: {
+	DisplayName: Mage Booster Regen1
+	Description: Mods.Macrocosm.Buffs.MageBoosterRegen1.Description
+}
+
+MageBoosterRegen2: {
+	DisplayName: Mage Booster Regen2
+	Description: Mods.Macrocosm.Buffs.MageBoosterRegen2.Description
+}
+
+AntiRadiationPillsBuff: {
+	DisplayName: Anti Radiation Pills Buff
+	Description: Mods.Macrocosm.Buffs.AntiRadiationPillsBuff.Description
+}
+
+AtomicWaveBuff: {
+	DisplayName: Atomic Wave Buff
+	Description: Mods.Macrocosm.Buffs.AtomicWaveBuff.Description
+}
+
+DensityBuff: {
+	DisplayName: Density Buff
+	Description: Mods.Macrocosm.Buffs.DensityBuff.Description
+}
+
+LifelineBuff: {
+	DisplayName: Lifeline Buff
+	Description: Mods.Macrocosm.Buffs.LifelineBuff.Description
+}
+
+MageBoosterPotionBuff: {
+	DisplayName: Mage Booster Potion Buff
+	Description: Mods.Macrocosm.Buffs.MageBoosterPotionBuff.Description
+}
+
+ManiaBuff: {
+	DisplayName: Mania Buff
+	Description: Mods.Macrocosm.Buffs.ManiaBuff.Description
+}
+
+PointBlankBuff: {
+	DisplayName: Point Blank Buff
+	Description: Mods.Macrocosm.Buffs.PointBlankBuff.Description
+}
+
+SafeguardBuff: {
+	DisplayName: Safeguard Buff
+	Description: Mods.Macrocosm.Buffs.SafeguardBuff.Description
+}
+
+SafeguardCooldown: {
+	DisplayName: Safeguard Cooldown
+	Description: Mods.Macrocosm.Buffs.SafeguardCooldown.Description
+}
+
+ZoningBuff: {
+	DisplayName: Zoning Buff
+	Description: Mods.Macrocosm.Buffs.ZoningBuff.Description
+}

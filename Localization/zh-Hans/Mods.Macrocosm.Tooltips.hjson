@@ -1,0 +1,7 @@
+DeveloperItem: 开发者
+UnobtainableItem: 无法获得
+Unusable: 该物品无法在{0}使用
+BurnFuel: 该易燃物品可用作燃料
+LiquidContainer: 这个物品可以储存液体
+WeaponNerf: 宇宙射线已使该武器性能下降
+WeaponBuff: 宇宙射线增强来该武器性能

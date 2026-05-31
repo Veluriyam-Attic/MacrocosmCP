@@ -1,0 +1,48 @@
+# Localization file for the configs
+
+ClientConfig: {
+	// GraphicsHeader: Graphics
+
+	AlwaysDisplayTitleCards: {
+	}
+
+	GunRecoilEffects: {
+	}
+
+	HighResolutionEffects: {
+		// Label: High Resolution Effects
+		// Tooltip: Use high resolution visual effects.
+	}
+
+	UnitSystem: {
+	}
+
+	DisplayGravityInGs: {
+	}
+
+	SelectedUITheme: {
+	}
+
+	DisableSilicaSandGeneration: {
+	}
+
+	DisableOilShaleGeneration: {
+	}
+}
+
+DisableSilicaSandGeneration: {
+}
+
+DisableOilShaleGeneration: {
+}
+
+// ServerConfig.Circuits: Circuits
+
+CircuitSearchUpdateRate: {
+}
+
+CircuitSolveUpdateRate: {
+}
+
+UnitSystemType: {
+}

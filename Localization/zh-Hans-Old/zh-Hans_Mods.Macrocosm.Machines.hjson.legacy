@@ -1,0 +1,12 @@
+BurnerGenerator: {
+}
+
+KeroseneGenerator: {
+	// HullHeatMetric: Hull Heat: {0}°C
+	// HullHeatImperial: Hull Heat: {0}°F
+}
+
+Common: {
+	PowerInfo: {
+	}
+}

@@ -1,0 +1,9 @@
+Oil: {
+	$parentVal: 油
+	MapEntry: 油
+}
+
+RocketFuel: {
+	$parentVal: 火箭燃料
+	MapEntry: 煤油
+}

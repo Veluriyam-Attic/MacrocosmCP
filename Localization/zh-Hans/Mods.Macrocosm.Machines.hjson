@@ -1,0 +1,44 @@
+OilRefinery.DisplayName: 炼油厂
+OreExcavator.DisplayName: 采矿机
+SteamEngine.DisplayName: 蒸汽机
+AutocrafterT1.DisplayName: Tier 1 Assembler
+AutocrafterT2.DisplayName: Tier 2 Assembler
+AutocrafterT3.DisplayName: Tier 3 Assembler
+AutosmelterT1.DisplayName: Tier 1 Smelter
+AutosmelterT2.DisplayName: Tier 2 Smelter
+AutosmelterT3.DisplayName: Tier 3 Smelter
+
+BurnerGenerator: {
+	DisplayName: 燃烧机
+	HullHeatMetric: 机体温度: {0}°C
+	HullHeatImperial: 机体温度: {0}°F
+}
+
+KeroseneGenerator: {
+	DisplayName: 煤油发电机
+	RPM: "{0} RPM"
+}
+
+Common: {
+	ConsumedPower: 输出功率: {0}kW
+	GeneratedPower: 发电功率: {0}kW
+	StoredEnergy: 储存能源: {0}kJ
+	LiquidExtract: 油页岩
+	LiquidContainer: 液体容器
+	BurnFuel: 可燃燃料
+	TemperatureMetric: "{0}°C"
+	TemperatureImperial: "{0}°F"
+	AirQualityIndex: "{0} AQI"
+
+	PowerInfo: {
+		Simple: "{0}kW"
+		Energy: "{0}kJ"
+		Common: "{0}kW / {1}kW"
+		Consumer: 消耗: {0}kW / 需要: {1}kW
+		ConsumerIdle: Idle / Max: {0}kW
+		Generator: 已发电: {0}kW
+		Battery: 储存: {0}kJ / 容量: {1}kJ
+		Circuit: Circuit: Generated {0}kW / Demand {1}kW / Batteries {2}kJ/{3}kJ ({4}kW)
+		Controller: ""
+	}
+}

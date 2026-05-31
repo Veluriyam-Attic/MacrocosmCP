@@ -1,0 +1,178 @@
+# Localization file for the configs
+
+ClientConfig: {
+	DisplayName: 客户端配置
+	GameplayHeader: 游戏
+	UIHeader: 用户界面
+	VisualsHeader: 视觉
+
+	AlwaysDisplayTitleCards: {
+		Label: 始终显示天体名称
+		Tooltip: 是否在每次到达一个新星球的时候显示一小段时间的天体名称,无论您是否到达过
+	}
+
+	GunRecoilEffects: {
+		Label: 枪支的后坐力
+		Tooltip: 枪支是否具有后坐力
+	}
+
+	UnitSystem: {
+		Label: 单位标准
+		Tooltip: 用于显示数值的单位标准
+	}
+
+	DisplayGravityInGs: {
+		Label: 以G显示重力值
+		Tooltip: 是否要以G（地球重力加速度）显示重力,或者以当前单位系统中测量的重力加速度显示
+	}
+
+	SelectedUITheme: {
+		Label: UI主题
+		Tooltip: 这个mod的UI显示主题
+	}
+
+	DisableSilicaSandGeneration: {
+		Label: 禁用硅砂生成
+		Tooltip: 禁用硅砂的生成,以避免破坏其他模组的生物群落.
+	}
+
+	DisableOilShaleGeneration: {
+		Label: 禁用油页岩生成
+		Tooltip: ""
+	}
+
+	Use3DCelestialBodies: {
+		Label: 3D行星
+		Tooltip: 启用 高分辨率的行星/卫星纹理
+	}
+
+	Headers: {
+		GameplayHeader: 游玩
+		UIHeader: UI
+		VisualsHeader: 视觉
+	}
+}
+
+ServerConfig: {
+	DisplayName: 服务器配置
+	WorldGenHeader: 世界生成
+
+	DisableSilicaSandGeneration: {
+		Label: 禁用硅砂生成
+		Tooltip: 禁用硅砂的生成,以避免破坏其他模组的生物群落.
+	}
+
+	DisableOilShaleGeneration: {
+		Label: 禁用油页岩生成
+		Tooltip: 禁用油页岩的生成,以避免破坏其他模组的生物群落.
+	}
+
+	Updates: 更新
+
+	CircuitSearchUpdateRate: {
+		Label: 电路搜索更新频率
+		Tooltip: 调整电路搜索的更新频率.
+	}
+
+	CircuitSolveUpdateRate: {
+		Label: 电路求解更新频率
+		Tooltip: 调整电路求解的更新频率.
+	}
+
+	RoomPressureUpdateRate: {
+		Label: 房间氧气检测缓存的更新频率
+		Tooltip: ""
+	}
+
+	ClusterFindUpdateRate: {
+		Label: 机器集群检测更新频率
+		Tooltip: ""
+	}
+
+	Headers: {
+		WorldGenHeader: 世界生成
+		UpdatesHeader: 更新
+	}
+}
+
+UnitSystemType: {
+	Tooltip: ""
+
+	Metric: {
+		Label: 公制
+		Tooltip: ""
+	}
+
+	Imperial: {
+		Label: 英制
+		Tooltip: ""
+	}
+}
+
+UpdateRate: {
+	Tooltip: ""
+
+	Realtime: {
+		Label: 实时 (1次每刻)
+		Tooltip: ""
+	}
+
+	Fast: {
+		Label: 快速 (6次每秒)
+		Tooltip: ""
+	}
+
+	Medium: {
+		Label: 中速 (2次每刻)
+		Tooltip: ""
+	}
+
+	Slow: {
+		Label: 缓慢 (1次每刻)
+		Tooltip: ""
+	}
+}
+
+DebugConfig: {
+	DisplayName: Debug配置
+
+	RocketBounds: {
+		Label: 火箭边界
+		Tooltip: ""
+	}
+
+	RocketIndex: {
+		Label: 火箭索引
+		Tooltip: ""
+	}
+
+	RocketCount: {
+		Label: 火箭数目
+		Tooltip: ""
+	}
+
+	UIDebug: {
+		Label: UI Debug
+		Tooltip: ""
+	}
+
+	PacketDebug: {
+		Label: 收发包Debug
+		Tooltip: ""
+	}
+
+	RoomOxygenDebug: {
+		Label: 室内氧气Debug
+		Tooltip: ""
+	}
+
+	ShowCursorTileCoords: {
+		Label: 在鼠标光标旁显示物块坐标
+		Tooltip: ""
+	}
+
+	ShowCursorWorldCoords: {
+		Label: 在鼠标光标旁显示世界坐标
+		Tooltip: ""
+	}
+}
