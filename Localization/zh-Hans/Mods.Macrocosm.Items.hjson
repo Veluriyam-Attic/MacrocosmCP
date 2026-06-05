@@ -2157,7 +2157,7 @@ TempestuousBand: {
 		'''
 		暴击时额外造成20%伤害
 		未造成暴击减少20%伤害
-		+15暴击率
+		+15%暴击率
 		'''
 }
 
@@ -2800,8 +2800,8 @@ Schroteri: {
 }
 
 Conveyor: {
-	DisplayName: Conveyor
-	Tooltip: Connects containers, taking items from one place to another
+	DisplayName: 运输管
+	Tooltip: 连接容器，将物品从一个地方转移到另一个地方
 }
 
 KeroseneGenerator: {
@@ -2820,236 +2820,226 @@ Flag: {
 }
 
 Barometer: {
-	DisplayName: Barometer
-	Tooltip: Records the atmospheric pressure of your surroundings, measured in earth atmospheres
+	DisplayName: 气压计
+	Tooltip: 记录你周围的气压，以地球大气压（atm）作为单位
 }
 
 GeigerMuller: {
-	DisplayName: Geiger Muller
-	Tooltip: Records radiation and alerts you of high radiation levels
+	DisplayName: 盖革计数器
+	Tooltip: 记录辐射，并在辐射过高时发出警报
 }
 
 Nephelometer: {
-	DisplayName: Nephelometer
-	Tooltip: Records the air quality of your surroundings
+	DisplayName: 浊度计
+	Tooltip: 记录你周围的空气质量
 }
 
 SolarPanelTile: {
-	DisplayName: Solar Panel Tile
-	Tooltip: Converts solar energy into electricity
+	DisplayName: 太阳能板
+	Tooltip: 将太阳能转化为电能
 }
 
 TrailScepter: {
-	Tooltip: Fires a flurry of ruinous stars
-	DisplayName: Trail Scepter
+	Tooltip: 释放多道毁灭星辰
+	DisplayName: 追迹法杖
 }
 
 HaemonovaBrick: {
-	DisplayName: Haemonova Brick
+	DisplayName: 血耀砖
 	Tooltip: ""
 }
 
 HaemonovaBathtub: {
-	DisplayName: Haemonova Bathtub
+	DisplayName: 血耀浴缸
 	Tooltip: ""
 }
 
 HaemonovaBed: {
-	DisplayName: Haemonova Bed
+	DisplayName: 血耀床
 	Tooltip: ""
 }
 
 HaemonovaBookcase: {
-	DisplayName: Haemonova Bookcase
+	DisplayName: 血耀书架
 	Tooltip: ""
 }
 
 HaemonovaCandelabra: {
-	DisplayName: Haemonova Candelabra
+	DisplayName: 血耀烛台
 	Tooltip: ""
 }
 
 HaemonovaCandle: {
-	DisplayName: Haemonova Candle
+	DisplayName: 血耀蜡烛
 	Tooltip: ""
 }
 
 HaemonovaChair: {
-	DisplayName: Haemonova Chair
+	DisplayName: 血耀椅
 	Tooltip: ""
 }
 
 HaemonovaChandelier: {
-	DisplayName: Haemonova Chandelier
+	DisplayName: 血耀吊灯
 	Tooltip: ""
 }
 
 HaemonovaChest: {
-	DisplayName: Haemonova Chest
+	DisplayName: 血耀箱
 	Tooltip: ""
 }
 
 HaemonovaClock: {
-	DisplayName: Haemonova Clock
+	DisplayName: 血耀钟
 	Tooltip: ""
 }
 
 HaemonovaDoor: {
-	DisplayName: Haemonova Door
+	DisplayName: 血耀门
 	Tooltip: ""
 }
 
 HaemonovaDresser: {
-	DisplayName: Haemonova Dresser
+	DisplayName: 血耀梳妆台
 	Tooltip: ""
 }
 
 HaemonovaLamp: {
-	DisplayName: Haemonova Lamp
+	DisplayName: 血耀灯
 	Tooltip: ""
 }
 
 HaemonovaLantern: {
-	DisplayName: Haemonova Lantern
+	DisplayName: 血耀灯笼
 	Tooltip: ""
 }
 
 HaemonovaPiano: {
-	DisplayName: Haemonova Piano
+	DisplayName: 血耀钢琴
 	Tooltip: ""
 }
 
 HaemonovaPlatform: {
-	DisplayName: Haemonova Platform
+	DisplayName: 血耀平台
 	Tooltip: ""
 }
 
 HaemonovaSink: {
-	DisplayName: Haemonova Sink
+	DisplayName: 血耀水槽
 	Tooltip: ""
 }
 
 HaemonovaSofa: {
-	DisplayName: Haemonova Sofa
+	DisplayName: 血耀沙发
 	Tooltip: ""
 }
 
 HaemonovaTable: {
-	DisplayName: Haemonova Table
+	DisplayName: 血耀桌
 	Tooltip: ""
 }
 
 HaemonovaToilet: {
-	DisplayName: Haemonova Toilet
+	DisplayName: 血耀马桶
 	Tooltip: ""
 }
 
 HaemonovaWorkbench: {
-	DisplayName: Haemonova Workbench
+	DisplayName: 血耀工作台
 	Tooltip: ""
 }
 
 Rubber: {
-	DisplayName: Rubber
+	DisplayName: 橡胶
 	Tooltip: ""
 }
 
 PhantasmalSkullTome: {
-	DisplayName: Phantasmal Skull
-	Tooltip: Fires phantasmal skulls around you
+	DisplayName: 幻影飞颅
+	Tooltip: 释放幻影骷髅头在你周围环绕
 }
 
 ConveyorInlet: {
-	DisplayName: Conveyor Inlet
-	Tooltip: Connects to a conveyor and puts items into chests and machines
+	DisplayName: 运输管输入口
+	Tooltip: 连接至运输管，并将物品传入箱子和机器
 }
 
 ConveyorOutlet: {
-	DisplayName: Conveyor Outlet
-	Tooltip: Connects to a conveyor and takes items from chests and machines
+	DisplayName: 运输管输出口
+	Tooltip: 连接至运输管，并将物品传出箱子和机器
 }
 
 ConveyorAttachmentTool: {
-	DisplayName: Conveyor Attachment Tool
+	DisplayName: 运输管组件工具
 	Tooltip:
 		'''
-		Uses hoppers and droppers from your inventory
-		Right click to rotate placed attachments
+		使用你物品栏中的吸料器和出料器
+		右键点击旋转放置组件的方向
 		'''
 }
 
 ConveyorWrenchRed: {
-	DisplayName: Conveyor Wrench
-	Tooltip: Places red conveyor pipes from your inventory
+	DisplayName: 运输管扳手
+	Tooltip: 从你的物品栏中放置红色运输管
 }
 
 ConveyorWrenchGreen: {
-	DisplayName: Green Conveyor Wrench
-	Tooltip: Places green conveyor pipes from your inventory
+	DisplayName: 绿色运输管扳手
+	Tooltip: 从你的物品栏中放置绿色运输管
 }
 
 ConveyorWrenchBlue: {
-	DisplayName: Blue Conveyor Wrench
-	Tooltip: Places blue conveyor pipes from your inventory
+	DisplayName: 蓝色运输管扳手
+	Tooltip: 从你的物品栏中放置蓝色运输管
 }
 
 ConveyorWrenchYellow: {
-	DisplayName: Yellow Conveyor Wrench
-	Tooltip: Places yellow conveyor pipes from your inventory
+	DisplayName: 黄色运输管扳手
+	Tooltip: 从你的物品栏中放置黄色运输管
 }
 
 PipeCutter: {
-	DisplayName: Pipe Cutter
-	Tooltip: Removes conveyor pipes and attachments
-}
-
-CrudeWireRed: {
-	DisplayName: Crude Red Wrench
-	Tooltip: Places red wire
-}
-
-CrudeWireBlue: {
-	DisplayName: Crude Blue Wrench
-	Tooltip: Places blue wire
+	DisplayName: 管道切割锯
+	Tooltip: 移除运输管和组件
 }
 
 CrudeWireCutter: {
-	DisplayName: Crude Wire Cutter
-	Tooltip: Cuts wires
+	DisplayName: 简易钢丝钳
+	Tooltip: 移除电线
 }
 
 HoneyCanister: {
-	DisplayName: Honey Canister
+	DisplayName: 蜂蜜罐
 	Tooltip: ""
 }
 
 LavaCanister: {
-	DisplayName: Lava Canister
+	DisplayName: 熔岩罐
 	Tooltip: ""
 }
 
 OilBucket: {
-	DisplayName: Oil Bucket
+	DisplayName: 油桶
 	Tooltip: ""
 }
 
 OilCanister: {
-	DisplayName: Oil Canister
+	DisplayName: 油罐
 	Tooltip: ""
 }
 
 RocketFuelBucket: {
-	DisplayName: Kerosene Bucket
+	DisplayName: 煤油桶
 	Tooltip: ""
 }
 
 ShimmerCanister: {
-	DisplayName: Shimmer Canister
+	DisplayName: 微光罐
 	Tooltip: ""
 }
 
 WaterCanister: {
-	DisplayName: Water Canister
+	DisplayName: 水罐
 	Tooltip: ""
 }
 
@@ -3064,26 +3054,26 @@ EngineComponentMk2: {
 }
 
 MannedManeuveringUnit: {
-	DisplayName: Manned Maneuvering Unit
+	DisplayName: 载人机动装置
 	Tooltip:
 		'''
-		Allows flight and slow fall
-		Grants greater maneuverability in zero gravity
+		允许飞行和缓慢降落
+		在零重力环境下大幅提升机动性
 		'''
 }
 
 MoonChampionHelmet: {
-	DisplayName: Moon Champion Helmet
+	DisplayName: 月之斗士头盔
 	Tooltip: ""
 }
 
 MoonChampionLeggings: {
-	DisplayName: Moon Champion Leggings
+	DisplayName: 月之斗士护胫
 	Tooltip: ""
 }
 
 MoonChampionSuit: {
-	DisplayName: Moon Champion Suit
+	DisplayName: 月之斗士外衣
 	Tooltip: ""
 }
 
@@ -3113,122 +3103,122 @@ SmogWispfish: {
 }
 
 RadioactiveSlimeBannerItem: {
-	DisplayName: Radioactive Slime Banner Item
+	DisplayName: 放射史莱姆旗
 	Tooltip: ""
 }
 
 RegolithSlimeBannerItem: {
-	DisplayName: Regolith Slime Banner Item
+	DisplayName: 岩尘史莱姆旗
 	Tooltip: ""
 }
 
 IndustrialFishingRod: {
-	DisplayName: Industrial Fishing Rod
+	DisplayName: 工业钓竿
 	Tooltip: ""
 }
 
 MoonBeastFishingRod: {
-	DisplayName: Moon Beast Fishing Rod
+	DisplayName: 月兽钓竿
 	Tooltip: ""
 }
 
 ACUnit: {
-	DisplayName: A C Unit
+	DisplayName: 空调机组
 	Tooltip: ""
 }
 
 MoonChampionSentry: {
-	DisplayName: Handmade Turret Caller
-	Tooltip: Summons a makeshift missile launcher
+	DisplayName: 手工炮塔召唤器
+	Tooltip: 召唤一个简易导弹发射器
 }
 
 RegolithBathtub: {
-	DisplayName: Regolith Bathtub
+	DisplayName: 风化岩浴缸
 	Tooltip: ""
 }
 
 RegolithBed: {
-	DisplayName: Regolith Bed
+	DisplayName: 风化岩床
 	Tooltip: ""
 }
 
 RegolithBookcase: {
-	DisplayName: Regolith Bookcase
+	DisplayName: 风化岩书架
 	Tooltip: ""
 }
 
 RegolithCandelabra: {
-	DisplayName: Regolith Candelabra
+	DisplayName: 风化岩烛台
 	Tooltip: ""
 }
 
 RegolithCandle: {
-	DisplayName: Regolith Candle
+	DisplayName: 风化岩蜡烛
 	Tooltip: ""
 }
 
 RegolithChair: {
-	DisplayName: Regolith Chair
+	DisplayName: 风化岩椅
 	Tooltip: ""
 }
 
 RegolithChandelier: {
-	DisplayName: Regolith Chandelier
+	DisplayName: 风化岩吊灯
 	Tooltip: ""
 }
 
 RegolithChest: {
-	DisplayName: Regolith Chest
+	DisplayName: 风化岩箱
 	Tooltip: ""
 }
 
 RegolithClock: {
-	DisplayName: Regolith Clock
+	DisplayName: 风化岩钟
 	Tooltip: ""
 }
 
 RegolithDoor: {
-	DisplayName: Regolith Door
+	DisplayName: 风化岩门
 	Tooltip: ""
 }
 
 RegolithDresser: {
-	DisplayName: Regolith Dresser
+	DisplayName: 风化岩梳妆台
 	Tooltip: ""
 }
 
 RegolithLamp: {
-	DisplayName: Regolith Lamp
+	DisplayName: 风化岩灯
 	Tooltip: ""
 }
 
 RegolithLantern: {
-	DisplayName: Regolith Lantern
+	DisplayName: 风化岩灯笼
 	Tooltip: ""
 }
 
 RegolithPiano: {
-	DisplayName: Regolith Piano
+	DisplayName: 风化岩钢琴
 	Tooltip: ""
 }
 
 RegolithSink: {
-	DisplayName: Regolith Sink
+	DisplayName: 风化岩水槽
 	Tooltip: ""
 }
 
 RegolithSofa: {
-	DisplayName: Regolith Sofa
+	DisplayName: 风化岩沙发
 	Tooltip: ""
 }
 
 RegolithTable: {
-	DisplayName: Regolith Table
+	DisplayName: 风化岩桌
 	Tooltip: ""
 }
 
 RegolithWorkbench: {
-	DisplayName: Regolith Workbench
+	DisplayName: 风化岩工作台
 	Tooltip: ""
 }
 
@@ -3456,7 +3446,7 @@ ZoningPotion: {
 }
 
 RegolithToilet: {
-	DisplayName: Regolith Toilet
+	DisplayName: 风化岩马桶
 	Tooltip: ""
 }
 
@@ -3517,18 +3507,18 @@ AutosmelterT3: {
 }
 
 OilBarrel: {
-	DisplayName: Oil Barrel
+	DisplayName: 油桶
 	Tooltip: ""
 }
 
 SolarPanelExtraLarge: {
-	DisplayName: Large Solar Panel
-	Tooltip: Converts solar energy into electricity
+	DisplayName: 太阳能电池板(大)
+	Tooltip: 将太阳能转化为电能
 }
 
 Dropper: {
-	DisplayName: Dropper
-	Tooltip: Drops items from chests and machines
+	DisplayName: 出料器
+	Tooltip: 从箱子和机器中取出物品
 }
 
 ScrapshotBow: {
@@ -3571,27 +3561,27 @@ MineralizedProtolith: {
 }
 
 HeveaSapling: {
-	DisplayName: Hevea Sapling
+	DisplayName: 橡胶树树苗
 	Tooltip: ""
 }
 
 RubberSap: {
-	DisplayName: Rubber Sap
+	DisplayName: 橡胶树汁
 	Tooltip: ""
 }
 
 HeveaWood: {
-	DisplayName: Hevea Wood
+	DisplayName: 橡胶木
 	Tooltip: ""
 }
 
 HeveaHammer: {
-	DisplayName: Hevea Hammer
+	DisplayName: 橡胶木锤
 	Tooltip: ""
 }
 
 HeveaWall: {
-	DisplayName: Hevea Wall
+	DisplayName: 橡胶木墙
 	Tooltip: ""
 }
 
@@ -3606,17 +3596,17 @@ LightningSpear: {
 }
 
 HeveaSword: {
-	DisplayName: Hevea Sword
+	DisplayName: 橡胶木剑
 	Tooltip: ""
 }
 
 MetalCutter: {
-	DisplayName: Metal Cutter
-	Tooltip: Shoots an energy flame controlled by the cursor
+	DisplayName: 金属切割器
+	Tooltip: 发射一束由光标控制的能量火焰
 }
 
 HeveaBow: {
-	DisplayName: Hevea Bow
+	DisplayName: 橡胶木弓
 	Tooltip: ""
 }
 
@@ -3630,17 +3620,17 @@ ProtoRailgun: {
 }
 
 Hopper: {
-	DisplayName: Hopper
-	Tooltip: Takes items and puts them into chests and machines
+	DisplayName: 吸料器
+	Tooltip: 拾取物品并放入箱子和机器
 }
 
 SteelPipe: {
-	DisplayName: Steel Pipe
+	DisplayName: 钢管
 	Tooltip: ""
 }
 
 IndustrialBatteryLarge: {
-	DisplayName: Large Industrial Battery
+	DisplayName: 大型工业电池组
 	Tooltip:
 		'''
 		Stores excess energy from electrical networks
@@ -3649,121 +3639,121 @@ IndustrialBatteryLarge: {
 }
 
 WindTurbineTiny: {
-	DisplayName: Small Wind Turbine
-	Tooltip: Converts wind energy into electricity
+	DisplayName: 风力发电机（小）
+	Tooltip: 将风能转化为电能
 }
 
 RegolithPlatform: {
-	DisplayName: Regolith Platform
+	DisplayName: 风化岩平台
 	Tooltip: ""
 }
 
 CrudeWireWrenchBlue: {
-	DisplayName: Crude Wire Wrench Blue
-	Tooltip: ""
+	DisplayName: Crude Blue Wrench
+	Tooltip: Places blue wire
 }
 
 CrudeWireWrenchRed: {
-	DisplayName: Crude Wire Wrench Red
-	Tooltip: ""
+	DisplayName: Crude Red Wrench
+	Tooltip: Places red wire
 }
 
 HeveaBathtub: {
-	DisplayName: Hevea Bathtub
+	DisplayName: 橡胶木浴缸
 	Tooltip: ""
 }
 
 HeveaBed: {
-	DisplayName: Hevea Bed
+	DisplayName: 橡胶木床
 	Tooltip: ""
 }
 
 HeveaBookcase: {
-	DisplayName: Hevea Bookcase
+	DisplayName: 橡胶木书架
 	Tooltip: ""
 }
 
 HeveaCandelabra: {
-	DisplayName: Hevea Candelabra
+	DisplayName: 橡胶木烛台
 	Tooltip: ""
 }
 
 HeveaCandle: {
-	DisplayName: Hevea Candle
+	DisplayName: 橡胶木蜡烛
 	Tooltip: ""
 }
 
 HeveaChair: {
-	DisplayName: Hevea Chair
+	DisplayName: 橡胶木椅
 	Tooltip: ""
 }
 
 HeveaChandelier: {
-	DisplayName: Hevea Chandelier
+	DisplayName: 橡胶木吊灯
 	Tooltip: ""
 }
 
 HeveaChest: {
-	DisplayName: Hevea Chest
+	DisplayName: 橡胶木箱
 	Tooltip: ""
 }
 
 HeveaClock: {
-	DisplayName: Hevea Clock
+	DisplayName: 橡胶木钟
 	Tooltip: ""
 }
 
 HeveaDoor: {
-	DisplayName: Hevea Door
+	DisplayName: 橡胶木门
 	Tooltip: ""
 }
 
 HeveaDresser: {
-	DisplayName: Hevea Dresser
+	DisplayName: 橡胶木梳妆台
 	Tooltip: ""
 }
 
 HeveaLamp: {
-	DisplayName: Hevea Lamp
+	DisplayName: 橡胶木灯
 	Tooltip: ""
 }
 
 HeveaLantern: {
-	DisplayName: Hevea Lantern
+	DisplayName: 橡胶木灯笼
 	Tooltip: ""
 }
 
 HeveaPiano: {
-	DisplayName: Hevea Piano
+	DisplayName: 橡胶木钢琴
 	Tooltip: ""
 }
 
 HeveaSink: {
-	DisplayName: Hevea Sink
+	DisplayName: 橡胶木水槽
 	Tooltip: ""
 }
 
 HeveaSofa: {
-	DisplayName: Hevea Sofa
+	DisplayName: 橡胶木沙发
 	Tooltip: ""
 }
 
 HeveaTable: {
-	DisplayName: Hevea Table
+	DisplayName: 橡胶木桌
 	Tooltip: ""
 }
 
 HeveaToilet: {
-	DisplayName: Hevea Toilet
+	DisplayName: 橡胶木马桶
 	Tooltip: ""
 }
 
 HeveaWorkbench: {
-	DisplayName: Hevea Workbench
+	DisplayName: 橡胶木工作台
 	Tooltip: ""
 }
 
 HeveaFence: {
-	DisplayName: Hevea Fence
+	DisplayName: 橡胶木栅栏
 	Tooltip: ""
 }

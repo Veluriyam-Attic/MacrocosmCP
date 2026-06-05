@@ -1,30 +1,30 @@
 LuminiteChest: {
 	MapEntry0: 夜明箱
-	MapEntry1: 夜明箱 (上锁)
+	MapEntry1: 夜明箱 （上锁）
 	MapEntry2: 天熔箱
-	MapEntry3: 天熔箱 (上锁)
+	MapEntry3: 天熔箱 （上锁）
 	MapEntry4: 月锈箱
-	MapEntry5: 月锈箱 (上锁)
+	MapEntry5: 月锈箱 （上锁）
 	MapEntry6: 星芒箱
-	MapEntry7: 星芒箱 (上锁)
+	MapEntry7: 星芒箱 （上锁）
 	MapEntry8: 暗黑天界箱
-	MapEntry9: 暗黑天界箱 (上锁)
+	MapEntry9: 暗黑天界箱 （上锁）
 	MapEntry10: 水星箱
-	MapEntry11: 水星箱 (上锁)
+	MapEntry11: 水星箱 （上锁）
 	MapEntry12: 星星皇家箱
-	MapEntry13: 星星皇家箱 (上锁)
+	MapEntry13: 星星皇家箱 （上锁）
 	MapEntry14: 冷核箱
-	MapEntry15: 冷核箱 (上锁)
+	MapEntry15: 冷核箱 （上锁）
 	MapEntry16: 宇宙余烬箱
-	MapEntry17: 宇宙余烬箱 (上锁)
-	MapEntry18: Haemonova Chest
-	MapEntry19: Haemonova Chest (Locked)
+	MapEntry17: 宇宙余烬箱 （上锁）
+	MapEntry18: 血耀箱
+	MapEntry19: 血耀箱 （上锁）
 }
 
 IndustrialChest: {
 	MapEntryNormal: 工业存储单元
 	MapEntryUnlocked: 工业电子存储单元
-	MapEntryLocked: 工业电子存储单元 (上锁)
+	MapEntryLocked: 工业电子存储单元 （上锁）
 }
 
 LaunchPadMarker.MapEntry: 发射台区域标记器
@@ -44,7 +44,7 @@ DianiteBar.MapEntry: 精炼望舒石
 AluminumBar.MapEntry: 铝锭
 ArtemiteBar.MapEntry: 精炼月光石
 SteelBar.MapEntry: 钢锭
-SolarPanelLarge.MapEntry: 太阳能电池板（大）
+SolarPanelLarge.MapEntry: 太阳能电池板（中）
 SolarPanelSmall.MapEntry: 太阳能电池板（小）
 OilRefinery.MapEntry: 炼油厂
 SilicaCrimsand.MapEntry: 猩红硅砂
@@ -61,14 +61,14 @@ PrintedCircuitBoard.MapEntry: 电路板
 IndustrialLocker.MapEntry: 工业储物柜
 OxygenSystem.MapEntry: 氧气系统
 MercurianBanner.MapEntry: 水星旗
-MoonDayMusicBox.MapEntry: 八音盒(Moon Day)
-MoonNightMusicBox.MapEntry: 八音盒(Moon Night)
-CraterDemonMusicBox.MapEntry: 八音盒(Crater Demon)
-UndergroundMoonMusicBox.MapEntry: 八音盒(Underground Moon)
-MenuMusicBox.MapEntry: 八音盒(Menu)
-PollutionMusicBox.MapEntry: 八音盒(Pollution)
-UndergroundPollutionMusicBox.MapEntry: 八音盒(Underground Pollution)
-MeteorStormMusicBox.MapEntry: 八音盒(Meteor Storm)
+MoonDayMusicBox.MapEntry: 八音盒（Moon Day）
+MoonNightMusicBox.MapEntry: 八音盒（Moon Night）
+CraterDemonMusicBox.MapEntry: 八音盒（Crater Demon）
+UndergroundMoonMusicBox.MapEntry: 八音盒（Underground Moon）
+MenuMusicBox.MapEntry: 八音盒（Menu）
+PollutionMusicBox.MapEntry: 八音盒（Pollution）
+UndergroundPollutionMusicBox.MapEntry: 八音盒（Underground Pollution）
+MeteorStormMusicBox.MapEntry: 八音盒（Meteor Storm）
 EarthGlobe.MapEntry: 地球仪
 PowerJunction.MapEntry: 配电箱
 Computer.MapEntry: 计算机
@@ -99,10 +99,10 @@ KyaniteNest.MapEntry: 蓝晶石巢
 Fridge.MapEntry: 冰箱
 IVPole.MapEntry: 输液架
 InvarBar.MapEntry: 殷钢锭
-IndustrialBattery.MapEntry: Industrial Battery
+IndustrialBattery.MapEntry: 工业电池组
 KeroseneGenerator.MapEntry: 煤油发电机
 SteamEngine.MapEntry: 蒸汽机
-SolarPanelTile.MapEntry: Solar Panel
+SolarPanelTile.MapEntry: 太阳能板
 Flag.MapEntry: 旗子
 ApolloLander.MapEntry: Apollo Lander
 ACUnit.MapEntry: AC Unit
@@ -116,10 +116,10 @@ Pumpjack.MapEntry: Pumpjack
 AutosmelterT1.MapEntry: Tier 1 Smelter
 AutosmelterT2.MapEntry: Tier 2 Smelter
 AutosmelterT3.MapEntry: Tier 3 Smelter
-SolarPanelExtraLarge.MapEntry: Large Solar Panel
-OilBarrel.MapEntry: Oil Barrel
+SolarPanelExtraLarge.MapEntry: 太阳能电池板（大）
+OilBarrel.MapEntry: 油桶
 SteelPipe.MapEntry: Steel Pipe
-IndustrialBatteryLarge.MapEntry: Industrial Battery Large
+IndustrialBatteryLarge.MapEntry: 大型工业电池组
 WindTurbineTiny.MapEntry: Small Wind Turbine
 NickelOre.MapEntry: Nickel Ore
 LuminiteCrystalFake.MapEntry: Luminite Crystal
