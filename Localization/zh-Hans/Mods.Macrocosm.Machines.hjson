@@ -1,9 +1,11 @@
 OilRefinery.DisplayName: 炼油厂
+OreDrill.DisplayName: Ore Excavator
 OreExcavator.DisplayName: 采矿机
+Pumpjack.DisplayName: Pumpjack
 SteamEngine.DisplayName: 蒸汽机
-AutocrafterT1.DisplayName: Tier 1 Assembler
-AutocrafterT2.DisplayName: Tier 2 Assembler
-AutocrafterT3.DisplayName: Tier 3 Assembler
+AutocrafterT1.DisplayName: 一阶装配机
+AutocrafterT2.DisplayName: 二阶装配机
+AutocrafterT3.DisplayName: 三阶装配机
 AutosmelterT1.DisplayName: Tier 1 Smelter
 AutosmelterT2.DisplayName: Tier 2 Smelter
 AutosmelterT3.DisplayName: Tier 3 Smelter
@@ -35,10 +37,10 @@ Common: {
 		Energy: "{0}kJ"
 		Common: "{0}kW / {1}kW"
 		Consumer: 消耗: {0}kW / 需要: {1}kW
-		ConsumerIdle: Idle / Max: {0}kW
+		ConsumerIdle: 空闲/最大功率: {0}kW
 		Generator: 已发电: {0}kW
 		Battery: 储存: {0}kJ / 容量: {1}kJ
-		Circuit: Circuit: Generated {0}kW / Demand {1}kW / Batteries {2}kJ/{3}kJ ({4}kW)
+		Circuit: 电路: 发电 {0}kW / 使用 {1}kW / 电池 {2}kJ/{3}kJ ({4}kW)
 		Controller: ""
 	}
 }

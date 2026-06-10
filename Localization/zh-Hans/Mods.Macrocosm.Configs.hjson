@@ -42,8 +42,8 @@ ClientConfig: {
 	}
 
 	Use3DCelestialBodies: {
-		Label: 3D行星
-		Tooltip: 启用 高分辨率的行星/卫星纹理
+		Label: 3D行星(实验性)
+		Tooltip: 启用实验性高分辨率的行星/卫星纹理
 	}
 
 	Headers: {

@@ -3258,7 +3258,7 @@ StasisGrenade: {
 }
 
 AutocrafterT1: {
-	DisplayName: Tier 1 Assembler
+	DisplayName: 一阶装配机
 	Tooltip:
 		'''
 		Crafts items automatically
@@ -3267,7 +3267,7 @@ AutocrafterT1: {
 }
 
 AutocrafterT2Cobalt: {
-	DisplayName: Tier 2 Assembler
+	DisplayName: 二阶装配机
 	Tooltip:
 		'''
 		Crafts items automatically
@@ -3276,7 +3276,7 @@ AutocrafterT2Cobalt: {
 }
 
 AutocrafterT2Palladium: {
-	DisplayName: Tier 2 Assembler
+	DisplayName: 二阶装配机
 	Tooltip:
 		'''
 		Crafts items automatically
@@ -3285,7 +3285,7 @@ AutocrafterT2Palladium: {
 }
 
 AutocrafterT3: {
-	DisplayName: Tier 3 Assembler
+	DisplayName: 三阶装配机
 	Tooltip:
 		'''
 		Crafts items automatically

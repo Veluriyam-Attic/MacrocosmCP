@@ -45,13 +45,17 @@ Rocket: {
 
 	Modules: {
 		CommandPod.DisplayName: 指挥舱
-		PayloadPod.DisplayName: Payload
+		PayloadPod.DisplayName: 有效载荷
 		ServiceModule.DisplayName: 起居舱
-		UnmannedTug.DisplayName: Unmanned Tug
+		StructureModule.DisplayName: 结构模块
+		UnmannedTug.DisplayName: 无人拖船
 		ReactorModule.DisplayName: 反应舱
-		EngineModule.DisplayName: 引擎舱
+		EngineModuleMk1.DisplayName: 引擎舱MK1
+		EngineModuleMk2.DisplayName: 引擎舱MK2
 		BoosterLeft.DisplayName: 左助推器
 		BoosterRight.DisplayName: 右助推器
+		LegModuleLeft.DisplayName: 左着陆腿模块
+		LegModuleRight.DisplayName: 右着陆腿模块
 	}
 
 	Customization: {
@@ -91,21 +95,21 @@ Rocket: {
 
 		Radius: {
 			Name: 半径
-			UnitMetric: "{0} km {1}{2}{3}"
-			UnitImperial: "{0} {^0:mile;miles} {1}{2}{3}"
+			UnitMetric: "{0} 千米 {1}{2}{3}"
+			UnitImperial: "{0} {^0:英里;英里} {1}{2}{3}"
 		}
 
 		DayPeriod: {
 			Name: 自转周期
-			UnitDays: "{0} {^0:day;days} {1}{2}{3}"
-			UnitHours: "{0} {^0:hour;hours} {1}{2}{3}"
+			UnitDays: "{0} {^0:天;天} {1}{2}{3}"
+			UnitHours: "{0} {^0:小时;小时} {1}{2}{3}"
 		}
 
 		Special: {
 			TidallyLocked: 潮汐锁定
 			Unstable: 不稳定
-			Negligible: Negligible
-			Retrograde: Retrograde
+			Negligible: 可忽略的重力
+			Retrograde: 逆行轨道
 		}
 
 		ThreatLevel: {
@@ -193,7 +197,7 @@ Rocket: {
 
 	Special: {
 		TidallyLocked: 潮汐锁定
-		Retrograde: Retrograde
+		Retrograde: 逆行轨道
 	}
 }
 
