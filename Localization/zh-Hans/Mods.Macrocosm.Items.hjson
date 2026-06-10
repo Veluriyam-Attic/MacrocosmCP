@@ -3078,27 +3078,27 @@ MoonChampionSuit: {
 }
 
 Craterfish: {
-	DisplayName: Craterfish
+	DisplayName: 环形山鱼
 	Tooltip: ""
 }
 
 DunceCraterfish: {
-	DisplayName: Dunce Craterfish
+	DisplayName: 愚蠢的环形山鱼
 	Tooltip: ""
 }
 
 HermitCan: {
-	DisplayName: Hermit Can
+	DisplayName: 寄居罐鱼
 	Tooltip: ""
 }
 
 MutatedGoldfish: {
-	DisplayName: Mutated Goldfish
+	DisplayName: 突变金鱼
 	Tooltip: ""
 }
 
 SmogWispfish: {
-	DisplayName: Smog Wispfish
+	DisplayName: 烟雾幽灵鱼
 	Tooltip: ""
 }
 
@@ -3223,27 +3223,27 @@ RegolithWorkbench: {
 }
 
 Thermometer: {
-	DisplayName: Thermometer
-	Tooltip: Records the temperature of your surroundings
+	DisplayName: 温度计
+	Tooltip: 记录你周围环境的温度
 }
 
 CorrugatedSteelBrick: {
-	DisplayName: Corrugated Steel Brick
+	DisplayName: 波纹钢砖
 	Tooltip: ""
 }
 
 CorrugatedSteelWall: {
-	DisplayName: Corrugated Steel Wall
+	DisplayName: 波纹钢墙
 	Tooltip: ""
 }
 
 CorrugatedSteelWallUnsafe: {
-	DisplayName: Perilous Corrugated Steel Wall
+	DisplayName: 危险的波纹钢墙
 	Tooltip: ""
 }
 
 SteelCage: {
-	DisplayName: Steel Cage
+	DisplayName: 钢架
 	Tooltip: ""
 }
 
@@ -3253,16 +3253,16 @@ BLPAsterix: {
 }
 
 StasisGrenade: {
-	DisplayName: Stasis Grenade
-	Tooltip: Greatly slows enemies caught in the blast
+	DisplayName: 静滞手雷
+	Tooltip: 极大延缓被爆炸命中敌人的速度
 }
 
 AutocrafterT1: {
 	DisplayName: 一阶装配机
 	Tooltip:
 		'''
-		Crafts items automatically
-		Crafts most pre-hardmode recipes
+		可以自动合成物品
+		可以合成大多数困难模式前的物品
 		'''
 }
 
@@ -3270,8 +3270,8 @@ AutocrafterT2Cobalt: {
 	DisplayName: 二阶装配机
 	Tooltip:
 		'''
-		Crafts items automatically
-		Can craft recipes from mythril anvils
+		可以自动合成物品
+		可以合成秘银砧级别的物品
 		'''
 }
 
@@ -3279,8 +3279,8 @@ AutocrafterT2Palladium: {
 	DisplayName: 二阶装配机
 	Tooltip:
 		'''
-		Crafts items automatically
-		Can craft recipes from mythril anvils
+		可以自动合成物品
+		可以合成秘银砧级别的物品
 		'''
 }
 
@@ -3288,161 +3288,161 @@ AutocrafterT3: {
 	DisplayName: 三阶装配机
 	Tooltip:
 		'''
-		Crafts items automatically
-		Can craft recipes from the ancient manipulator
+		可以自动合成物品
+		可以合成远古操纵台级别的物品
 		'''
 }
 
 OreDrill: {
-	DisplayName: Tier 1 Excavator
+	DisplayName: 一阶采矿机
 	Tooltip:
 		'''
-		Automatically extracts ores and resources from underground
-		Does not damage terrain
+		自动从地下开采矿物和资源
+		不会破坏地形
 		'''
 }
 
 Pumpjack: {
-	DisplayName: Pumpjack
-	Tooltip: Pumps oil from the ground
+	DisplayName: 抽油机
+	Tooltip: 从地下抽取石油
 }
 
 Astrolith: {
-	DisplayName: Astrolith
+	DisplayName: 天体岩
 	Tooltip: ""
 }
 
 AstrolithWall: {
-	DisplayName: Astrolith Wall
+	DisplayName: 天体岩墙
 	Tooltip: ""
 }
 
 AstrolithWallUnsafe: {
-	DisplayName: Perilous Astrolith Wall
+	DisplayName: 危险的天体岩墙
 	Tooltip: ""
 }
 
 BrittleHollow: {
-	DisplayName: Brittle Hollow
+	DisplayName: 脆弱空洞
 	Tooltip: ""
 }
 
 CacoLisa: {
-	DisplayName: Caco Lisa
+	DisplayName: 卡可丽莎
 	Tooltip: ""
 }
 
 ChillingInSpace: {
-	DisplayName: Chilling In Space
+	DisplayName: 太空寒意
 	Tooltip: ""
 }
 
 ElegyForTheRings: {
-	DisplayName: Elegy For The Rings
+	DisplayName: 环之挽歌
 	Tooltip: ""
 }
 
 GiantsDeep: {
-	DisplayName: Giants Deep
+	DisplayName: 巨渊
 	Tooltip: ""
 }
 
 HourglassTwins: {
-	DisplayName: Hourglass Twins
+	DisplayName: 沙漏双星
 	Tooltip: ""
 }
 
 IsleOfTheDead: {
-	DisplayName: Isle Of The Dead
+	DisplayName: 亡者之岛
 	Tooltip: ""
 }
 
 PaleBluePixel: {
-	DisplayName: Pale Blue Pixel
+	DisplayName: 淡蓝像素
 	Tooltip: ""
 }
 
 TheEye: {
-	DisplayName: The Eye
+	DisplayName: 宇宙之眼
 	Tooltip: ""
 }
 
 TheInterloper: {
-	DisplayName: The Interloper
+	DisplayName: 入侵者
 	Tooltip: ""
 }
 
 TimberHearth: {
-	DisplayName: Timber Hearth
+	DisplayName: 炉边星
 	Tooltip: ""
 }
 
 CelestialMeteorStaff: {
-	DisplayName: Lunar Flash
-	Tooltip: Showers celestial meteors with varying deadly effects
+	DisplayName: 月闪
+	Tooltip: 倾泻具有各种致命效果的天体流星
 }
 
 LockOnStaff: {
-	DisplayName: Lock-On Staff
+	DisplayName: 锁定法杖
 	Tooltip:
 		'''
-		Targets up to four enemies before firing explosive beams
-		'Time to hit 'em hard and make 'em regret it!'
+		锁定最多四个敌人后发射爆炸光束
+		"是时候狠狠打击他们，让他们后悔了！"
 		'''
 }
 
 MegaBlade: {
-	DisplayName: Mega Blade
+	DisplayName: 巨型剑
 	Tooltip:
 		'''
-		A massive blade made from a rocket's hull
-		'Surprisingly lighter than it looks'
+		由火箭船体制成的巨大剑刃
+		"看起来比实际轻得多"
 		'''
 }
 
 Choronzon: {
-	DisplayName: Choronzon
+	DisplayName: 科罗佐
 	Tooltip: ""
 }
 
 AtomicWavePotion: {
-	DisplayName: Atomic Wave Potion
-	Tooltip: Periodically releases an atomic wave that damages nearby enemies
+	DisplayName: 原子波药水
+	Tooltip: 定期释放原子波伤害附近敌人
 }
 
 BoosterPotion: {
-	DisplayName: Booster Potion
-	Tooltip: Spawns boosters from the nebula armor set bonus, but less powerful
+	DisplayName: 助推器药水
+	Tooltip: 生成星云套装奖励的助推器，但威力较弱
 }
 
 DensityPotion: {
-	DisplayName: Density Potion
-	Tooltip: Increases gravity
+	DisplayName: 密度药水
+	Tooltip: 增加重力
 }
 
 LifelinePotion: {
-	DisplayName: Lifeline Potion
-	Tooltip: Chance for enemies to drop hearts on hit
+	DisplayName: 生命线药水
+	Tooltip: 敌人被击中时有几率掉落红心
 }
 
 ManiaPotion: {
-	DisplayName: Mania Potion
-	Tooltip: Increases attack speed
+	DisplayName: 狂暴药水
+	Tooltip: 增加攻击速度
 }
 
 PointBlankPotion: {
-	DisplayName: Point Blank Potion
-	Tooltip: Increased ranged damage to close targets, decreased damage to targets far away
+	DisplayName: 近身药水
+	Tooltip: 增加对近处目标的远程伤害，减少对远处目标的伤害
 }
 
 SafeguardPotion: {
-	DisplayName: Safeguard Potion
-	Tooltip: Protects from the next hit, with a cooldown before you can drink another
+	DisplayName: 守护药水
+	Tooltip: 抵挡下一次伤害，有冷却时间才能再次饮用
 }
 
 ZoningPotion: {
-	DisplayName: Zoning Potion
-	Tooltip: Increased ranged damage to faraway targets, decreased damage to targets up close
+	DisplayName: 远程药水
+	Tooltip: 增加对远处目标的远程伤害，减少对近处目标的伤害
 }
 
 RegolithToilet: {
@@ -3451,58 +3451,58 @@ RegolithToilet: {
 }
 
 ArmorPiercingRound: {
-	DisplayName: Armor Piercing Round
+	DisplayName: 破甲弹
 	Tooltip: ""
 }
 
 RailgunBolt: {
-	DisplayName: Railgun Bolt
+	DisplayName: 电磁炮弹丸
 	Tooltip: ""
 }
 
 ShredderBullet: {
-	DisplayName: Shredder Bullet
+	DisplayName: 碎裂弹
 	Tooltip: ""
 }
 
 IndustrialBeam: {
-	DisplayName: Industrial Beam
+	DisplayName: 工业梁
 	Tooltip: ""
 }
 
 AutosmelterT1: {
-	DisplayName: Tier 1 Smelter
+	DisplayName: 一阶熔炼机
 	Tooltip:
 		'''
-		Smelts ores automatically
-		Can craft all the recipes of a stone furnace
+		自动冶炼矿石
+		可以合成所有熔炉级别的配方
 		'''
 }
 
 AutosmelterT2Adamantite: {
-	DisplayName: Tier 2 Smelter
+	DisplayName: 二阶冶炼机
 	Tooltip:
 		'''
-		Smelts ores automatically
-		Can craft all the recipes of an adamantite furnace
+		自动冶炼矿石
+		可以合成所有精金熔炉级别配方
 		'''
 }
 
 AutosmelterT2Titanium: {
-	DisplayName: Tier 2 Smelter
+	DisplayName: 二阶冶炼机
 	Tooltip:
 		'''
-		Smelts ores automatically
-		Can craft all the recipes of a titanium furnace
+		自动冶炼矿石
+		可以合成所有钛金熔炉级别配方
 		'''
 }
 
 AutosmelterT3: {
-	DisplayName: Tier 3 Smelter
+	DisplayName: 三阶冶炼机
 	Tooltip:
 		'''
-		Smelts ores automatically
-		Can smelt luminite and moon ores
+		自动冶炼矿石
+		不能冶炼夜明和月球矿石
 		'''
 }
 
@@ -3522,41 +3522,41 @@ Dropper: {
 }
 
 ScrapshotBow: {
-	DisplayName: Scrapshot Bow
+	DisplayName: 废铁射手
 	Tooltip:
 		'''
-		Shoots a burst of arrows and metal scrap
-		'Prone to faulty firing!'
+		射出一连串箭矢及金属碎片
+		“经常发射错误！”
 		'''
 }
 
 LegacyDianiteBreastplate: {
-	DisplayName: Legacy Dianite Breastplate
+	DisplayName: 远古望舒石胸甲
 	Tooltip: ""
 }
 
 LegacyDianiteLeggings: {
-	DisplayName: Legacy Dianite Leggings
+	DisplayName: 远古望舒石护腿
 	Tooltip: ""
 }
 
 LegacyDianiteVisor: {
-	DisplayName: Legacy Dianite Visor
+	DisplayName: 远古望舒石头盔
 	Tooltip: ""
 }
 
 SeleniteBrick: {
-	DisplayName: Selenite Brick
+	DisplayName: 月光砖
 	Tooltip: ""
 }
 
 DianiteBrick: {
-	DisplayName: Dianite Brick
+	DisplayName: 望舒砖
 	Tooltip: ""
 }
 
 MineralizedProtolith: {
-	DisplayName: Mineralized Protolith
+	DisplayName: 矿化月原岩
 	Tooltip: ""
 }
 
@@ -3586,13 +3586,13 @@ HeveaWall: {
 }
 
 SeleniteBrickWall: {
-	DisplayName: Selenite Brick Wall
+	DisplayName: 硒矿砖墙
 	Tooltip: ""
 }
 
 LightningSpear: {
-	DisplayName: Lightning Spear
-	Tooltip: Hurls a lightning spear
+	DisplayName: 闪电矛
+	Tooltip: 投掷一个闪电矛
 }
 
 HeveaSword: {
@@ -3611,11 +3611,11 @@ HeveaBow: {
 }
 
 ProtoRailgun: {
-	DisplayName: Proto Railgun
+	DisplayName: 原型电磁炮
 	Tooltip:
 		'''
-		Fires a high piercing bolt
-		'A mere glimpse into the future of firearms!'
+		发射高穿透力弹丸
+		“这仅仅是枪械未来发展的冰山一角！”
 		'''
 }
 
@@ -3633,8 +3633,8 @@ IndustrialBatteryLarge: {
 	DisplayName: 大型工业电池组
 	Tooltip:
 		'''
-		Stores excess energy from electrical networks
-		Energy is taken from batteries when the electrical network demands more than is produced
+		储存来自电力网络的多余能量
+		当电网需求超过发电量时，能量便从电池中获取
 		'''
 }
 
@@ -3649,13 +3649,13 @@ RegolithPlatform: {
 }
 
 CrudeWireWrenchBlue: {
-	DisplayName: Crude Blue Wrench
-	Tooltip: Places blue wire
+	DisplayName: 粗制蓝扳手
+	Tooltip: 放置蓝色线缆
 }
 
 CrudeWireWrenchRed: {
-	DisplayName: Crude Red Wrench
-	Tooltip: Places red wire
+	DisplayName: 粗制红扳手
+	Tooltip: 放置红色线缆
 }
 
 HeveaBathtub: {

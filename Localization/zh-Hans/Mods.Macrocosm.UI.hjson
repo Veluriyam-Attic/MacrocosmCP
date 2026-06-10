@@ -68,6 +68,17 @@ Rocket: {
 		ResetModule: 重置舱室外观
 		ResetRocket: 重置火箭外观
 		ResetPattern: 重置图案外观
+
+		Patterns: {
+			// Astra: Astra
+			// Basic: Basic
+			// Binary: Binary
+			// Delta: Delta
+			// Hazard: Hazard
+			// Helix: Helix
+			// Redstone: Redstone
+			// Saturn: Saturn
+		}
 	}
 
 	Cargo.DumpFuel: 倾倒

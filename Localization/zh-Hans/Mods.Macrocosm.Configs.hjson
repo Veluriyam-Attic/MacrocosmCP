@@ -55,7 +55,6 @@ ClientConfig: {
 
 ServerConfig: {
 	DisplayName: 服务器配置
-	WorldGenHeader: 世界生成
 
 	DisableSilicaSandGeneration: {
 		Label: 禁用硅砂生成
@@ -66,8 +65,6 @@ ServerConfig: {
 		Label: 禁用油页岩生成
 		Tooltip: 禁用油页岩的生成,以避免破坏其他模组的生物群落.
 	}
-
-	Updates: 更新
 
 	CircuitSearchUpdateRate: {
 		Label: 电路搜索更新频率
