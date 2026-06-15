@@ -3085,21 +3085,29 @@ Craterfish: {
 DunceCraterfish: {
 	DisplayName: 愚蠢的环形山鱼
 	Tooltip: ""
+	AnglerDescription: ""
+	AnglerLocation: 在月球捕获
 }
 
 HermitCan: {
 	DisplayName: 寄居罐鱼
 	Tooltip: ""
+	AnglerDescription: ""
+	AnglerLocation: 在月球捕获
 }
 
 MutatedGoldfish: {
 	DisplayName: 突变金鱼
 	Tooltip: ""
+	AnglerDescription: ""
+	AnglerLocation: 在污染捕获
 }
 
 SmogWispfish: {
 	DisplayName: 烟雾幽灵鱼
 	Tooltip: ""
+	AnglerDescription: ""
+	AnglerLocation: 在污染捕获
 }
 
 RadioactiveSlimeBannerItem: {

@@ -1,6 +1,6 @@
 displayName = Macrocosm-汉化补丁
 author = 玲珑汉化组
-version = 1.0.1.1
+version = 1.0.1.2
 modReferences = Macrocosm
 translationMod = true
 side = Client

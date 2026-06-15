@@ -74,6 +74,8 @@ MoonChampion: {
 		SolarStorm3: 太阳看起来很生气，人类！小心点，有时候可怕的怪物会随着太阳风暴来到这里，它们可不是好对付的.
 		SolarStorm4: 你有尝到金属的味道吗，人类？
 	}
+
+	Census.SpawnCondition: 未知条件
 }
 
 Clavite: {
